@@ -2,5 +2,5 @@
 weight: 1
 bookFlatSection: true
 bookCollapseSection: true
-title: "Math"
+title: "Data Structure"
 ---
