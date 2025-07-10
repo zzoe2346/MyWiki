@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: 공부한 자료 기록집
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+👍😎👍
