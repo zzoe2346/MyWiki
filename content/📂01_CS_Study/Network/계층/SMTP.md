@@ -1,0 +1,2 @@
+- 메일용
+- Simple Mail Transfer Protocol

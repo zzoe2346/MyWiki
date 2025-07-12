@@ -1,0 +1,1 @@
+[[convoy effect]] 와 [[Starvation]]

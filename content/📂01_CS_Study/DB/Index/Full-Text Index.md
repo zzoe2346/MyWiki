@@ -1,0 +1,1 @@
+https://mariadb.com/kb/en/full-text-indexes/
