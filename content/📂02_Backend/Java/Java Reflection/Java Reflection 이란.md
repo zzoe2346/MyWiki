@@ -1,0 +1,11 @@
+- 런타임에 클래스, 메서드, 필드, 생성자 등 객체 구조 정보 동적으로 조사하고 조작 가능
+- JVM은 실행시 Classloader 통해 Class 정보를 메모리에 저장
+- 그렇게 저장된건 Class 그 자체를 반영(Reflection)
+	- 생성자, 메소드, 필드 등 클래스  정보 다 알 수 있음
+- 어노테이션이 리플렉션 사용 예시
+	- 리플렉션을 쓰면 클래스와 메소드에 어떤 어노테이션이 붙어있는지 확인 가능
+	- 어노테이션 그 자체는 아무 역할 없다
+	- `@Component`, `@Bean`
+- 인텔리제이의 Getter, Setter 기능도 리플렉션 활용한다함.?? 롬복아닌가
+	- https://medium.com/@narasimha4789/inside-your-ide-the-magic-of-instant-getter-and-setter-generation-6686abda8669
+- 접근 제어자와 무관하게 클래스의 필드나 메소드도 가져와서 호출 가능
