@@ -23,18 +23,28 @@
             "id": "3154dd70ea7c08ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "📂02_Backend/Character Encoding/유티코드 잼니니.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20250712230036.png"
               },
-              "icon": "lucide-file",
-              "title": "유티코드 잼니니"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250712230036"
+            }
+          },
+          {
+            "id": "7cfa0d5d0e684a87",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20250712230054.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250712230054"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,9 +193,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3154dd70ea7c08ef",
+  "active": "b1bc95ad57e43f20",
   "lastOpenFiles": [
+    "images/Pasted image 20250712230036.png",
     "index.md",
+    "images/Pasted image 20250712230054.png",
+    "📂02_Backend/Character Encoding/UTF-16.md",
+    "📂02_Backend/Character Encoding/UTF-8.md",
+    "📂02_Backend/Character Encoding/UTF-32.md",
+    "📂02_Backend/Character Encoding/BOM.md",
+    "📂02_Backend/Character Encoding/Modified UTF-8.md",
+    "📂12_Career/Coding_Test/(카카오)무지의 먹방 라이브.md",
+    "📂02_Backend/Character Encoding/Endian.md",
+    "images/Pasted image 20250712224101.png",
+    "📂02_Backend/Character Encoding/유티코드 잼니니.md",
     "images/Pasted image 20250415102907.png",
     "images/Pasted image 20250415141953.png",
     "images/Pasted image 20250415143220.png",
