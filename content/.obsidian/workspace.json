@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1e3faa3fe763dc08",
+        "id": "14af6753bcb8847f",
         "type": "tabs",
         "children": [
           {
-            "id": "159c61e37191c401",
+            "id": "d5e558a437196d71",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250415095619.png"
+                "file": "📂11_Reading/기업 기술 아티클.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250415095619"
-            }
-          },
-          {
-            "id": "3154dd70ea7c08ef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20250712230036.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250712230036"
-            }
-          },
-          {
-            "id": "7cfa0d5d0e684a87",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20250712230054.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250712230054"
+              "icon": "lucide-file",
+              "title": "기업 기술 아티클"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -195,18 +172,39 @@
   },
   "active": "b1bc95ad57e43f20",
   "lastOpenFiles": [
-    "images/Pasted image 20250712230036.png",
-    "index.md",
+    "📂01_CS_Study/Security/CA/디지털 인증서.md",
+    "📂11_Reading/기업 기술 아티클.md",
+    "📂01_CS_Study/Network/유니, 멀티, 브로드캐스트.md",
+    "📂01_CS_Study/Network/네트워크.md",
+    "📂01_CS_Study/DataStructure/Array List.md",
+    "📂01_CS_Study/DataStructure/AVL Tree.md",
+    "📂01_CS_Study/DataStructure/시간복잡도.md",
+    "📂01_CS_Study/DataStructure/빅 오.md",
+    "📂01_CS_Study/DataStructure/배열과 연결리스트.md",
+    "📂01_CS_Study/DataStructure/기본.md",
+    "📂01_CS_Study/DataStructure/공간복잡도.md",
+    "📂10_Personal_Growth/Q. 로또번호 7개 셔플 시 어떤 자료구조를 쓰고 로직은 무엇?.md",
+    "📂10_Personal_Growth/P/25.07.md",
+    "📂10_Personal_Growth/P/0601(1주차).md",
+    "📂12_Career/Coding_Test/BruteForce/00자주 쓰이는 기법.md",
+    "📂12_Career/Coding_Test/BruteForce/외벽 점검.md",
+    "📂12_Career/Coding_Test/Impl/서버 증설 횟수.md",
+    "📂12_Career/Coding_Test/BruteForce",
+    "📂12_Career/Coding_Test/Greedy/무지의 먹방 라이브.md",
+    "📂12_Career/Coding_Test/Greedy",
+    "📂12_Career/Coding_Test/Impl",
+    "📂11_Reading/save url.md",
+    "📂11_Reading/Tomcat/Tomcat Thread Pool.md",
+    "📂11_Reading/Tomcat/Thread & Tocat Tunning.md",
+    "📂11_Reading/Tomcat/Log 언어.md",
+    "📂11_Reading/Tomcat/톰캣의 스레드 덤프를 통한 스레드 상태에 대한 이해.md",
+    "📂10_Personal_Growth/윈도우함수 2.md",
+    "📂10_Personal_Growth/정리 ㄱ.ㄱ.md",
+    "📂10_Personal_Growth/<주제> 외래키가 공유락을 건다?!.md",
+    "images/Pasted image 20250713142621.png",
     "images/Pasted image 20250712230054.png",
-    "📂02_Backend/Character Encoding/UTF-16.md",
-    "📂02_Backend/Character Encoding/UTF-8.md",
-    "📂02_Backend/Character Encoding/UTF-32.md",
-    "📂02_Backend/Character Encoding/BOM.md",
-    "📂02_Backend/Character Encoding/Modified UTF-8.md",
-    "📂12_Career/Coding_Test/(카카오)무지의 먹방 라이브.md",
-    "📂02_Backend/Character Encoding/Endian.md",
+    "images/Pasted image 20250712230036.png",
     "images/Pasted image 20250712224101.png",
-    "📂02_Backend/Character Encoding/유티코드 잼니니.md",
     "images/Pasted image 20250415102907.png",
     "images/Pasted image 20250415141953.png",
     "images/Pasted image 20250415143220.png",
