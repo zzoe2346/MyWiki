@@ -1,1 +1,0 @@
-https://velog.io/@dailylifecoding/spring-security-authentication-registry

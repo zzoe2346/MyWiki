@@ -1,1 +1,0 @@
-1. `SpringBootServletInitializer` 상속
