@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-05-19
+created: 2025-05-19
 ---
 - internet control message protocol
 - 노드와 노드 사이의 통신이 잘 되나 확인용 프로토콜

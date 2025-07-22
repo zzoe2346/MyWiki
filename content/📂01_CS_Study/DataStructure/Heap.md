@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-07-14
+created: 2025-07-14
 ---
 - 힙은 주로 [[Binary Tree]](이진트리) 기반으로 구현
 - Max Heap 

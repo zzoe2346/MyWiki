@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-05-12
+created: 2025-05-12
 ---
 - protocol data unit
 - 각 층의 데이터 단위

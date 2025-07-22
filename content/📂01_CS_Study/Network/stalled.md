@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-30
+created: 2025-06-30
 ---
 네, "stalled" 상태에는 종종 "initial connection"을 포함하여 여러 가지 이유로 인해 요청이 지연되는 경우가 포함됩니다.
 

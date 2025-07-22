@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-07-15
+created: 2025-07-15
 ---
 - 키는 다른데 ==Hash==는 같을 때
 - 키도 Hash도 다른데 `hash % map_capa`결과가 같을 때

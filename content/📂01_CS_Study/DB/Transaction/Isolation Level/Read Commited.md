@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-07-12
+created: 2025-07-12
 ---
 - 커밋 완료된 데이터만 조회 가능
 	- Dirty Read 방지 가능

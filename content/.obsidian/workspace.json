@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📂01_CS_Study/DB/34 백엔드에서 사용되는  DB 기본 개념을 설명. 중요한 기본 DB 용어들을 자세히 설명.md",
+                "file": "📂11_Reading/기업 기술 아티클.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34 백엔드에서 사용되는  DB 기본 개념을 설명. 중요한 기본 DB 용어들을 자세히 설명"
+              "title": "기업 기술 아티클"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 365.5
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20250415095619.png",
+                "file": "📂11_Reading/기업 기술 아티클.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250415095619"
+              "title": "Backlinks for 기업 기술 아티클"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20250415095619.png",
+                "file": "📂11_Reading/기업 기술 아티클.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250415095619"
+              "title": "Outgoing links from 기업 기술 아티클"
             }
           },
           {
@@ -142,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20250415095619.png",
+                "file": "📂11_Reading/기업 기술 아티클.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250415095619"
+              "title": "Outline of 기업 기술 아티클"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,6 +172,19 @@
   },
   "active": "ae82b6fb09a21645",
   "lastOpenFiles": [
+    "📂01_CS_Study/Security/CA/디지털 인증서.md",
+    "📂01_CS_Study/Security/CA/X.509.md",
+    "📂11_Reading/기업 기술 아티클.md",
+    "📂99_Archive/Templates/Default.md",
+    "📂01_CS_Study/DataStructure/(ADT)List.md",
+    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/응용 용어/카디널리티.md",
+    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/응용 용어/선택도.md",
+    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/엔진/스토리지 엔진.md",
+    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요/Oracle과 구조적 차이.md",
+    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요/MySQL, MariaDB 히스토리.md",
+    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요/MySQL, MariaDB 튜닝 중요성(약점).md",
+    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기/실행 계획 항목.md",
+    "📂01_CS_Study/DB/34 백엔드에서 사용되는  DB 기본 개념을 설명. 중요한 기본 DB 용어들을 자세히 설명.md",
     "📂01_CS_Study/DB/Transaction/ACID/격리성(Isolation).md",
     "📂01_CS_Study/DB/Subquery/상관 서브쿼리.md",
     "📂01_CS_Study/DB/Subquery/다중행 서브쿼리.md",
@@ -185,19 +198,6 @@
     "📂01_CS_Study/DB/Index/Full-Text Index.md",
     "📂01_CS_Study/DB/Index/EXPLAIN.md",
     "📂01_CS_Study/DB/Index/B-Tree.md",
-    "📂01_CS_Study/DB/03 DB Index/구조.md",
-    "📂01_CS_Study/DB/Index/왜 인덱스?.md",
-    "📂01_CS_Study/DB/03 DB Index/인덱스.md",
-    "📂01_CS_Study/DB/03 DB Index/인덱스 작동 원리.md",
-    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/엔진/MySQL 엔진.md",
-    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/엔진/DB 엔진.md",
-    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/엔진/스토리지 엔진.md",
-    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기/실행 계획 확인 명령어.md",
-    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기/실행 계획 항목.md",
-    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/인덱스로 테이블 찾아가는 과정에서의 의문.md",
-    "📂01_CS_Study/DB/Transaction/Isolation Level/InnoDB.md",
-    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요/Oracle과 지원 기능 차이.md",
-    "📂01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요/Oracle과 구조적 차이.md",
     "📂01_CS_Study/Security/CA/X.509.md.sb-59dd96c8-g5J0yM",
     "📂01_CS_Study/Security/CA/CA의 인증서 검증과 발급.md.sb-59dd96c8-8r4P9Y",
     "📂01_CS_Study/Security/CA/CA란.md.sb-59dd96c8-DtEVQ9",

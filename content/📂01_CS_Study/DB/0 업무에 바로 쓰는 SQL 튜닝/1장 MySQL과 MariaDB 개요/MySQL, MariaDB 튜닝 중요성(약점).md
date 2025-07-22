@@ -1,5 +1,8 @@
 ---
-createdDate: 2025-04-29
+created: 2025-04-29
+tags:
+  - DB/MySQL
+  - DB/MariaDB
 ---
 - 내부의 기능적 제약사항
 	- 대부분의 조인이 중첩 루프 조인 알고리즘으로 수행

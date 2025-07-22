@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-07-16
+created: 2025-07-16
 ---
 - [[Hash Table]]사용하여 구현
 

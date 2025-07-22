@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-05-15
+created: 2025-05-15
 ---
 - File Transfer Protocol
 - 노드간의 파일 전송에 쓰이는 프로토콜

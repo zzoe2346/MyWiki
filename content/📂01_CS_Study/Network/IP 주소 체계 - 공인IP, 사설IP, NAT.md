@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-12
+created: 2025-06-12
 ---
 - IP주소의 부족을 공인 IP와 사설 IP로 나누고 중간에 NAT이라는 기술을 통해 해결함
 - NAT(network address translation)은 패킷이 트래픽 라우팅 장치를 통해 정송되는 동안 패킷의 IP주소를 변경, IP 주소를 다른 IP 주소로 매핑하는 방법

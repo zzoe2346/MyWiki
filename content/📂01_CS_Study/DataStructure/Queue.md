@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-07-14
+created: 2025-07-14
 ---
 - FIFO
 - First In First Out

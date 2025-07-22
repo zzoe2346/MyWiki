@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-26
+created: 2025-06-26
 ---
 - 인증 기관
 - Certification Authority

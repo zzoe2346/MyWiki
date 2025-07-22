@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-15
+created: 2025-06-15
 ---
 - ==all or nothing==
 - 트랜잭션과 관련된 일이 모두 수행 or 모두 미수행 보장

@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-07-15
+created: 2025-07-15
 ---
 - 연관 배열
 - key-value pair들을 저장하는 **ADT**

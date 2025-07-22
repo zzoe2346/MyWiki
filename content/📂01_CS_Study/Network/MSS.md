@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-05-13
+created: 2025-05-13
 ---
 - Maximum Segment Size
 - TCP에서 사용할 수 있는 데이터 크기

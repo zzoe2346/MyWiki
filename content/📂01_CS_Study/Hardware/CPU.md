@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-17
+created: 2025-06-17
 ---
 - CPU(Central Processing Unit)은 장롱만한 컴퓨터 시절부터 쓰임
 - 구성

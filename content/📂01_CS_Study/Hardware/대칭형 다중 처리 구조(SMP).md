@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-19
+created: 2025-06-19
 ---
 - 멀티 프로레서 시스템에 symmetric multiprocessing
 - SMP 는 동일한 프로세서 여러 개가 단일 주소 공간을 가진 공유 메모리에 연결되 같은 운영체제에서 동작하는 구조

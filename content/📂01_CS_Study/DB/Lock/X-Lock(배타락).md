@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-19
+created: 2025-06-19
 ---
 - Exclusive Lock
 - 이거 수정할꺼니까 건드리지 마셈

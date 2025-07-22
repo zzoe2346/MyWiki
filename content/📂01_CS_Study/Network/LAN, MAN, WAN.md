@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-05-11
+created: 2025-05-11
 ---
 - LAN
 	- local area network

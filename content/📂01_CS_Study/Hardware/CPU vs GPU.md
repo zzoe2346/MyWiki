@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-18
+created: 2025-06-18
 ---
 - CPU
 	- MIMD 구조 따름

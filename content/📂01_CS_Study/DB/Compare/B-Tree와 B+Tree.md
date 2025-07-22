@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-05-12
+created: 2025-05-12
 ---
 - B 트리(B-Tree)라 불리는 것의 실체는 대부분 B+Tree 로 이루어진 것
 - MySQL, PostgreSQL, Oracle, SQLite 등 내부적으로 인덱스를 B+TREE로 구현

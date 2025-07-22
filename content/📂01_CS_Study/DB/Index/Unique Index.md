@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-05-12
+created: 2025-05-12
 ---
 https://mariadb.com/kb/en/getting-started-with-indexes/
 - 말그대로 유일성 지키는 인덱스

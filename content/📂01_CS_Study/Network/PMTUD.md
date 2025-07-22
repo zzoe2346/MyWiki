@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-05-13
+created: 2025-05-13
 ---
 
 - Path MTU Discovery

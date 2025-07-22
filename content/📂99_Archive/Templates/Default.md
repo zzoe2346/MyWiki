@@ -1,5 +1,5 @@
 ---
 tags: 
-createdDate: <% tp.date.now() %>
+created: <% tp.date.now() %>
 ---
- <example await tp.system.prompt("저자명") %>
+createdcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreated <example await tp.system.prompt("저자명") %>

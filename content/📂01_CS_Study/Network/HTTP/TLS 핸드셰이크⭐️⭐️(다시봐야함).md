@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-06-13
+created: 2025-06-13
 ---
 > 어렵고 고급지식
 > https://www.inflearn.com/courses/lecture?courseId=328823&type=LECTURE&unitId=129789&subtitleLanguage=ko&tab=curriculum

@@ -1,5 +1,5 @@
 ---
-createdDate: 2025-07-12
+created: 2025-07-12
 ---
 - [[📂01_CS_Study/DB/Transaction/Isolation Level/Serializable]]
 - [[Repeatable Read]]
