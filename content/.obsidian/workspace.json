@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -151,12 +152,12 @@
               "title": "Outline of index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +171,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1bc95ad57e43f20",
+  "active": "ae82b6fb09a21645",
   "lastOpenFiles": [
+    "01_CS_Study/DataStructure/B Tree.md",
+    "SCR-20250723-hmqp.png",
+    "02_Backend/Java/Concurrency Programming/Shared Data Consistency.md",
+    "02_Backend/Java/Concurrency Programming/Race Condition.md",
+    "02_Backend/Java/Concurrency Programming/java.util.concurrent package.md",
+    "02_Backend/Java/Concurrency Programming/참고자료.md",
+    "02_Backend/Java/Concurrency Programming/동시성 프로그래밍의 어려움.md",
+    "02_Backend/Java/Concurrency Programming/동시성 도입 이유.md",
+    "02_Backend/Java/동시성 프로그래밍 공부 순서.md",
+    "02_Backend/Java/상수화(final).md",
+    "02_Backend/Java/Compile Lang, Interpreter Lang.md",
+    "01_CS_Study/Hardware/병렬 컴퓨터 유형.md",
+    "01_CS_Study/Hardware/동시 하드웨어의 여러 수준.md",
+    "01_CS_Study/OS/Concurency/6.1 CPU-bound과 IO-bound.md",
+    "01_CS_Study/OS/Concurency/2.9 동시성 vs 병렬성.md",
+    "01_CS_Study/OS/Concurency/1.2 동시성의 계층.md",
+    "01_CS_Study/OS/Concurency/1.1 동시성 중요성.md",
+    "01_CS_Study/OS/Concurency/1.0 동시성이란 무엇인가.md",
+    "01_CS_Study/OS/Drawing 2025-05-11 22.03.14.excalidraw.md",
+    "01_CS_Study/OS/인터럽트.md",
+    "01_CS_Study/OS/운영체제와 펌웨어의 차이는?.md",
+    "01_CS_Study/OS/멀티 태스킹.md",
+    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Sync Non-Blocking.md",
+    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Sync Blocking.md",
+    "01_CS_Study/OS/Sync, Async, Block, Non-Block/REFERENCE.md",
+    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Gemini 예제들.md",
+    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Blocking, Non-Blocking.md",
     "99_Archive/etc/Cache/웹 브라우저 캐시(로컬스토리지, 세션스토리지, 쿠키 공통점과 차이점).md.sb-59dd96c8-tPaHYi",
     "99_Archive/etc/필수 지식/05 CI CD.md.sb-59dd96c8-qElU3V",
     "99_Archive/etc/필수 지식/04 Cloud.md.sb-59dd96c8-2mytVP",
@@ -182,32 +210,6 @@
     "12_Career/Untitled.md.sb-59dd96c8-FbOE50",
     "12_Career/Interview/static은 왜 쓰며 단점은? ⭐️.md.sb-59dd96c8-xADOd2",
     "12_Career/Interview/클래스와 객체와 인스턴스의 차이 ⭐️⭐️⭐️.md.sb-59dd96c8-1txo84",
-    "12_Career/Interview/Interceptor VS Filter.md.sb-59dd96c8-5Xlxk5",
-    "01_CS_Study/Network/계층/PDU.md",
-    "01_CS_Study/Network/계층/ICMP.md",
-    "01_CS_Study/Network/계층/트랜스포트 계층.md",
-    "01_CS_Study/Network/계층/애플리케이션 계층.md",
-    "01_CS_Study/DataStructure/ArrayList vs LinkedList.md",
-    "01_CS_Study/DataStructure/공간복잡도.md",
-    "01_CS_Study/DataStructure/(ADT)Map.md",
-    "11_Reading/기업 기술 아티클.md",
-    "01_CS_Study/Security/CA/디지털 인증서.md",
-    "01_CS_Study/Security/CA/X.509.md",
-    "99_Archive/Templates/Default.md",
-    "01_CS_Study/DataStructure/(ADT)List.md",
-    "01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/응용 용어/카디널리티.md",
-    "01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/응용 용어/선택도.md",
-    "01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기/엔진/스토리지 엔진.md",
-    "01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요/Oracle과 구조적 차이.md",
-    "01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요/MySQL, MariaDB 히스토리.md",
-    "01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요/MySQL, MariaDB 튜닝 중요성(약점).md",
-    "01_CS_Study/DB/0 업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기/실행 계획 항목.md",
-    "01_CS_Study/DB/34 백엔드에서 사용되는  DB 기본 개념을 설명. 중요한 기본 DB 용어들을 자세히 설명.md",
-    "01_CS_Study/DB/Transaction/ACID/격리성(Isolation).md",
-    "01_CS_Study/DB/Subquery/상관 서브쿼리.md",
-    "01_CS_Study/DB/Subquery/다중행 서브쿼리.md",
-    "01_CS_Study/DB/Subquery/다중열 서브쿼리.md",
-    "01_CS_Study/DB/Q&A/DB의 데드락과 해결방법 설명해주세요.md",
     "SCR-20250721-hhrh.png",
     "images/SCR-20250716-qthp.png",
     "images/SCR-20250716-qsqg.png",
@@ -216,7 +218,6 @@
     "images/SCR-20250716-qqvx.png",
     "images/SCR-20250715-qnxw.png",
     "images/SCR-20250714-hmzh.png",
-    "images/Pasted image 20250714072754.png",
-    "images/Pasted image 20250713142621.png"
+    "images/Pasted image 20250714072754.png"
   ]
 }
