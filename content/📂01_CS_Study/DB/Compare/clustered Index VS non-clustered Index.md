@@ -1,3 +1,6 @@
+---
+createdDate: 2025-05-12
+---
 https://gwang920.github.io/database/clusterednonclustered/
 - [[클러스터 인덱스]]
 	- 유일성, 최소성 가지는 기본키 중 하나로 설정

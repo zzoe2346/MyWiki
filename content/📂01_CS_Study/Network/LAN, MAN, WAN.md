@@ -1,3 +1,6 @@
+---
+createdDate: 2025-05-11
+---
 - LAN
 	- local area network
 	- 근거리 통신망

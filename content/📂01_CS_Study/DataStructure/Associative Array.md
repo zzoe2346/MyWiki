@@ -1,3 +1,6 @@
+---
+createdDate: 2025-07-15
+---
 - 연관 배열
 - key-value pair들을 저장하는 **ADT**
 - 같은 key가지는 pair는 최대 한개만 존재

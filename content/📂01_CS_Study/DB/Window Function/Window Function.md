@@ -1,3 +1,6 @@
+---
+createdDate: 2025-06-18
+---
 - ANSI : 2003 표준
 - 지원 역사
 	- Oracle - ver 8.1.6 in 2000

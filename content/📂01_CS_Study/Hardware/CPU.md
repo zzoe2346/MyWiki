@@ -1,3 +1,6 @@
+---
+createdDate: 2025-06-17
+---
 - CPU(Central Processing Unit)은 장롱만한 컴퓨터 시절부터 쓰임
 - 구성
 	- 제어 장치(Control Unit, CU)

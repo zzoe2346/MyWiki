@@ -1,3 +1,6 @@
+---
+createdDate: 2025-06-26
+---
 https://www.ssl.com/ko/%EA%B8%B0%EC%82%AC/%EC%9D%B8%EC%A6%9D-%EA%B8%B0%EA%B4%80-CA-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C%3F/
 CA에 인증서를 요청할 때...
 

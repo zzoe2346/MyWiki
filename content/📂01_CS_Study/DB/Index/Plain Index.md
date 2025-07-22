@@ -1,3 +1,6 @@
+---
+createdDate: 2025-05-12
+---
 - 인덱스는 꼭 유니크할 필요 없음
 ```sql
 CREATE TABLE t2 (a INT NOT NULL, b INT, INDEX (a,b));

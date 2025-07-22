@@ -1,4 +1,6 @@
-#oracle #mysql #maridadb #diff 
+---
+createdDate: 2025-04-29
+---
 ## 조인 알고리즘 지원
 - MySQL
 	- 중첩 루프 조인

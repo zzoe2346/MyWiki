@@ -1,3 +1,6 @@
+---
+createdDate: 2025-07-14
+---
 - FIFO
 - First In First Out
 - 먼저 들어간게 먼저 나온다.

@@ -1,3 +1,9 @@
+---
+createdDate: 2025-05-13
+tags:
+  - network
+---
+
 - Maximum Transmission Unit
 - 패킷으로 쪼갤 때 MTU 기반으로 쪼개짐
 - MTU는 네트워크 통신 때 가능한 가장 큰 [[PDU]] 크기 의미

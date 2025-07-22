@@ -1,3 +1,6 @@
+---
+createdDate: 2025-07-16
+---
 - 자녀가 최대 두 개인 [[(ADT)Tree]]
 - 이진 트리 형태
 **Balanced Binary Tree(균형 이진 트리)**
