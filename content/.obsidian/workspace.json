@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Personal_Growth/link.md",
+                "file": "자바 스레드 상태와 생명 주기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "link"
+              "title": "자바 스레드 상태와 생명 주기"
+            }
+          },
+          {
+            "id": "fb40431e46f9fc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자바 스레드 상태와 생명 주기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "자바 스레드 상태와 생명 주기"
             }
           }
         ],
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Datastructure",
+                "query": "tag:#backend/character",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 245.5
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Personal_Growth/link.md",
+                "file": "자바 스레드 상태와 생명 주기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for link"
+              "title": "Backlinks for 자바 스레드 상태와 생명 주기"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Personal_Growth/link.md",
+                "file": "자바 스레드 상태와 생명 주기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from link"
+              "title": "Outgoing links from 자바 스레드 상태와 생명 주기"
             }
           },
           {
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Personal_Growth/link.md",
+                "file": "자바 스레드 상태와 생명 주기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of link"
+              "title": "Outline of 자바 스레드 상태와 생명 주기"
             }
           }
         ],
@@ -185,53 +199,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1bc95ad57e43f20",
+  "active": "e9c2b77414db5991",
   "lastOpenFiles": [
-    "04_Personal_Growth/Q. 로또번호 7개 셔플 시 어떤 자료구조를 쓰고 로직은 무엇?.md",
-    "10_Personal_Growth/P/25.07.md",
-    "10_Personal_Growth/P/0601(1주차).md",
-    "04_Personal_Growth/회고들.md",
-    "04_Personal_Growth/자동화 할 만한 것들.md",
-    "04_Personal_Growth/Career/Untitled.md",
-    "04_Personal_Growth/Career/이력서 관련.md",
+    "index.md",
+    "SCR-20250724-hjrn.png",
+    "02_Backend/Character Encoding/UTF-16.md",
+    "02_Backend/Character Encoding/UTF-8.md",
+    "02_Backend/Character Encoding/DB와 인코딩.md",
+    "02_Backend/Character Encoding/Endian.md",
+    "02_Backend/Character Encoding/Modified UTF-8.md",
+    "02_Backend/Character Encoding/OS가 유니코드를 활용하여 화면에 문자를 출력하는 원리.md",
+    "02_Backend/Character Encoding/URL 인코딩.md",
+    "02_Backend/Character Encoding/용어/BOM.md",
+    "02_Backend/Character Encoding/Base64를 사용하는 이유.md",
+    "02_Backend/Character Encoding/용어/Base64.md",
+    "02_Backend/Character Encoding/용어/문자와 문자열.md",
+    "02_Backend/Character Encoding/용어/문자 코드 체계.md",
+    "02_Backend/Character Encoding/UTF-32.md",
+    "02_Backend/Character Encoding/개념",
+    "02_Backend/Character Encoding/용어",
+    "02_Backend/Java/스레드 제어 및 기초적 동기화.md",
+    "자바 스레드 상태와 생명 주기.md",
+    "02_Backend/Java/JVM/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 대표 특징.md",
+    "02_Backend/Java/JVM/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 기술 시스템.md",
+    "05_Personal_Growth/블록체인 공부 로드맵.md",
+    "01_CS_Study/DataStructure/용어/Hash Collision.md",
+    "01_CS_Study/DataStructure/용어/Dynamic Array.md",
+    "01_CS_Study/DataStructure/용어/Binary Tree.md",
+    "01_CS_Study/DataStructure/용어/Binary Search Tree(BST).md",
+    "01_CS_Study/DataStructure/용어/B Tree.md",
+    "01_CS_Study/DataStructure/용어/AVL Tree.md",
+    "01_CS_Study/DataStructure/용어/Associative Array.md",
+    "04_AI",
     "images/IMG_3846.jpeg",
-    "01_CS_Study/DB/용어/스토리지.md",
     "images/SCR-20250723-hmqp.png",
     "images/SCR-20250721-hhrh.png",
-    "02_Backend/Spring/LazyConnectionDataSourceProxy.md",
-    "02_Backend/Spring/GEMINI ~.md",
-    "02_Backend/Character Encoding/문자와 문자열.md",
-    "01_CS_Study/Security/용어/디지털 인증서.md",
-    "01_CS_Study/Security/용어/X.509.md",
-    "01_CS_Study/Security/용어/암호화.md",
     "01_CS_Study/Security/용어",
     "01_CS_Study/Security/개념",
-    "01_CS_Study/OS/용어/프로세스 메모리 구조.md",
-    "01_CS_Study/OS/용어/다중 프로세스.md",
-    "01_CS_Study/OS/용어/자! 정리.md",
-    "01_CS_Study/OS/용어/Gemini 예제들.md",
-    "01_CS_Study/OS/용어/AIO, IOCPs.md",
-    "01_CS_Study/OS/용어/보조 Stream.md",
-    "01_CS_Study/OS/용어/1.0 동시성이란 무엇인가.md",
-    "01_CS_Study/OS/용어/12.3.1 코루틴(사용자 수준의 스레드).md",
-    "01_CS_Study/OS/용어/리액터 패턴.md",
-    "01_CS_Study/OS/용어/논블로킹 IO.md",
-    "01_CS_Study/OS/용어/asynchronous 정의.md",
-    "01_CS_Study/OS/용어/협동적 멀티태스킹 이점.md",
     "01_CS_Study/OS/개념",
     "01_CS_Study/OS/용어",
     "01_CS_Study/Hardware/개념",
     "01_CS_Study/Hardware/용어",
     "01_CS_Study/DB/03 DB Index/논클러스티드 인덱스.md.sb-59dd96c8-1y5SUQ",
-    "01_CS_Study/DB/03 DB Index/랜덤 IO, 순차 IO.md.sb-59dd96c8-7TPM3p",
-    "01_CS_Study/DB/03 DB Index/복합 인덱스.md.sb-59dd96c8-yG5Xhp",
-    "01_CS_Study/DB/03 DB Index/옵티마이저.md.sb-59dd96c8-q1bsmx",
     "images/SCR-20250716-qthp.png",
     "images/SCR-20250716-qsqg.png",
     "images/SCR-20250716-qsiy.png",
     "images/SCR-20250716-qrfq.png",
     "images/SCR-20250716-qqvx.png",
-    "images/SCR-20250715-qnxw.png",
-    "images/SCR-20250714-hmzh.png"
+    "images/SCR-20250715-qnxw.png"
   ]
 }

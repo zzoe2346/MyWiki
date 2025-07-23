@@ -1,7 +1,7 @@
 ---
 created: 2025-07-15
 tags:
-  - cs/datastructure
+  - cs/datastructure/term
 ---
 - 값들을 저장하는 추상자료형
 - 순서 존재

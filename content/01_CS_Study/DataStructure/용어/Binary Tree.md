@@ -1,7 +1,9 @@
 ---
 created: 2025-07-16
+tags:
+  - cs/datastructure/term
 ---
-- 자녀가 최대 두 개인 [[(ADT)Tree]]
+- 자녀가 최대 두 개인 [[Tree]]
 - 이진 트리 형태
 **Balanced Binary Tree(균형 이진 트리)**
 모든 노드에서 왼쪽 서브 트리와 오른쪽 서브 트리의 높이 차이가 최대 1인 트리

@@ -1,5 +1,7 @@
 ---
 created: 2025-07-14
+tags:
+  - cs/datastructure/term
 ---
 - 크기가 변할 수 있는 배열
 - 데이터 더하거나 빼는것 가능

@@ -1,5 +1,7 @@
 ---
 created: 2025-07-12
+tags:
+  - backend/character/term
 ---
 Unicode Transformation Format
 - UTF-8은 웹 서비스 포함 여러 분야에 가장 많이 사용되는 인코딩 규칙(사실상 표준)

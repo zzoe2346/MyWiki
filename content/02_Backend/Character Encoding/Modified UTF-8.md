@@ -1,5 +1,7 @@
 ---
 created: 2025-07-12
+tags:
+  - backend/character/term
 ---
 - Java 에서 사용
 - 문자열 길이 나타내는 16비트 정보를 문자열 데이터 앞에 추가

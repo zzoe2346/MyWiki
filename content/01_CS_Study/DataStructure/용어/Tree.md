@@ -1,7 +1,7 @@
 ---
 created: 2025-07-16
 tags:
-  - cs/datastructure
+  - cs/datastructure/term
 ---
 - 노드들 집합
 - 각 노드는 값과 다른 노드 기리키는 레퍼런스 구성

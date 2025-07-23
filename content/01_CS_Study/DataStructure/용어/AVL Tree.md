@@ -1,6 +1,7 @@
 ---
 date: 2025-07-17
-tags: []
+tags:
+  - cs/datastructure/term
 ---
 ## AVL Tree란
 - [[Binary Search Tree(BST)]]의 한 종류

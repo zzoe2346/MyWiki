@@ -1,5 +1,7 @@
 ---
 created: 2025-07-16
+tags:
+  - cs/datastructure/term
 ---
 - 배열과 [[Hash Function]]해시 함수를 사용하여 map을 구현한 자료구조
 	- 변환된 키값을 나머지 연산으로 제한시킬수있다.

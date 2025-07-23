@@ -1,5 +1,7 @@
 ---
 created: 2025-07-16
+tags:
+  - cs/datastructure/term
 ---
 - [[Hash Table]]사용하여 구현
 

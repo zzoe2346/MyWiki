@@ -1,5 +1,7 @@
 ---
 created: 2025-07-14
+tags:
+  - cs/datastructure/term
 ---
 - FIFO
 - First In First Out
