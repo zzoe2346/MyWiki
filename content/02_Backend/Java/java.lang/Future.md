@@ -1,7 +1,7 @@
 ---
 created: 2025-05-06
 ---
-#java #future #async
+
 
 https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/Future.html
 

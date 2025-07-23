@@ -1,7 +1,7 @@
 ---
 created: 2025-04-11
 ---
-#docker #resouce-constraint
+
 
 > https://docs.docker.com/engine/containers/resource_constraints
 > https://www.baeldung.com/ops/docker-memory-limit

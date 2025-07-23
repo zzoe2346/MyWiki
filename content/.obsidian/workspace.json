@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "bf388360118b12c2",
+        "id": "303ffab64060ce63",
         "type": "tabs",
         "children": [
           {
-            "id": "ae82b6fb09a21645",
+            "id": "c9fab57c5ea6fda8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "01_CS_Study/DB/용어/선택도.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "선택도"
+            }
+          },
+          {
+            "id": "e9c2b77414db5991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_CS_Study/DB/용어/실행 계획 항목.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "실행 계획 항목"
+            }
+          },
+          {
+            "id": "6533ec1470676aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_CS_Study/OS/공유자원/공유 자원.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "공유 자원"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Datastructure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -95,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "01_CS_Study/OS/공유자원/공유 자원.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 공유 자원"
             }
           },
           {
@@ -114,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "01_CS_Study/OS/공유자원/공유 자원.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 공유 자원"
             }
           },
           {
@@ -143,21 +171,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "01_CS_Study/OS/공유자원/공유 자원.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 공유 자원"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,45 +199,45 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae82b6fb09a21645",
+  "active": "6533ec1470676aa8",
   "lastOpenFiles": [
-    "01_CS_Study/DataStructure/B Tree.md",
-    "SCR-20250723-hmqp.png",
-    "02_Backend/Java/Concurrency Programming/Shared Data Consistency.md",
-    "02_Backend/Java/Concurrency Programming/Race Condition.md",
-    "02_Backend/Java/Concurrency Programming/java.util.concurrent package.md",
-    "02_Backend/Java/Concurrency Programming/참고자료.md",
-    "02_Backend/Java/Concurrency Programming/동시성 프로그래밍의 어려움.md",
-    "02_Backend/Java/Concurrency Programming/동시성 도입 이유.md",
-    "02_Backend/Java/동시성 프로그래밍 공부 순서.md",
-    "02_Backend/Java/상수화(final).md",
-    "02_Backend/Java/Compile Lang, Interpreter Lang.md",
-    "01_CS_Study/Hardware/병렬 컴퓨터 유형.md",
-    "01_CS_Study/Hardware/동시 하드웨어의 여러 수준.md",
-    "01_CS_Study/OS/Concurency/6.1 CPU-bound과 IO-bound.md",
-    "01_CS_Study/OS/Concurency/2.9 동시성 vs 병렬성.md",
-    "01_CS_Study/OS/Concurency/1.2 동시성의 계층.md",
-    "01_CS_Study/OS/Concurency/1.1 동시성 중요성.md",
-    "01_CS_Study/OS/Concurency/1.0 동시성이란 무엇인가.md",
-    "01_CS_Study/OS/Drawing 2025-05-11 22.03.14.excalidraw.md",
-    "01_CS_Study/OS/인터럽트.md",
-    "01_CS_Study/OS/운영체제와 펌웨어의 차이는?.md",
-    "01_CS_Study/OS/멀티 태스킹.md",
-    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Sync Non-Blocking.md",
-    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Sync Blocking.md",
-    "01_CS_Study/OS/Sync, Async, Block, Non-Block/REFERENCE.md",
-    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Gemini 예제들.md",
+    "01_CS_Study/OS/공유자원/경쟁 상태 해결 방법.md",
+    "01_CS_Study/OS/공유자원/경쟁 상태 관리의 중요성.md",
+    "01_CS_Study/OS/공유자원/경쟁 상태.md",
     "01_CS_Study/OS/Sync, Async, Block, Non-Block/Blocking, Non-Blocking.md",
-    "99_Archive/etc/Cache/웹 브라우저 캐시(로컬스토리지, 세션스토리지, 쿠키 공통점과 차이점).md.sb-59dd96c8-tPaHYi",
-    "99_Archive/etc/필수 지식/05 CI CD.md.sb-59dd96c8-qElU3V",
-    "99_Archive/etc/필수 지식/04 Cloud.md.sb-59dd96c8-2mytVP",
-    "99_Archive/etc/필수 지식/03 API.md.sb-59dd96c8-5L8ZS4",
-    "99_Archive/etc/필수 지식/01 JSON.md.sb-59dd96c8-I5dfQo",
-    "99_Archive/etc/필수 지식/(특강)IT 대기업 100% 합격하는 방법.md.sb-59dd96c8-Kpk2Cj",
-    "99_Archive/etc/라이브러리 vs 프레임워크.md.sb-59dd96c8-87NKKy",
-    "12_Career/Untitled.md.sb-59dd96c8-FbOE50",
-    "12_Career/Interview/static은 왜 쓰며 단점은? ⭐️.md.sb-59dd96c8-xADOd2",
-    "12_Career/Interview/클래스와 객체와 인스턴스의 차이 ⭐️⭐️⭐️.md.sb-59dd96c8-1txo84",
+    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Async Non-Blocking.md",
+    "01_CS_Study/OS/Sync, Async, Block, Non-Block/AIO, IOCPs.md",
+    "01_CS_Study/OS/멀티 태스킹.md",
+    "01_CS_Study/OS/개념",
+    "01_CS_Study/OS/용어",
+    "01_CS_Study/OS/캐시/시간 지역성.md",
+    "01_CS_Study/OS/캐시/공간 지역성.md",
+    "01_CS_Study/Hardware/용어/CPU.md",
+    "01_CS_Study/Hardware/개념/CPU vs GPU.md",
+    "01_CS_Study/Hardware/용어/CPU Cycle.md",
+    "01_CS_Study/Hardware/개념/병렬 컴퓨터 유형.md",
+    "01_CS_Study/Hardware/용어/캐시.md",
+    "01_CS_Study/Hardware/용어/컴퓨터 클러스터.md",
+    "01_CS_Study/Hardware/개념/동시 하드웨어의 여러 수준.md",
+    "01_CS_Study/Hardware/용어/대칭형 다중 처리 구조(SMP).md",
+    "01_CS_Study/Hardware/개념",
+    "01_CS_Study/Hardware/용어",
+    "01_CS_Study/Security/CA/디지털 인증서.md",
+    "10_Personal_Growth/good blog.md",
+    "01_CS_Study/Network/용어/1의 보수 합.md",
+    "10_Personal_Growth/link.md",
+    "01_CS_Study/Network/개념/TLS하려면 서버와 클라 둘다 tls 층이 필요한건가.md",
+    "01_CS_Study/Network/개념/TLS는 왜 IP가아닌 도메인을 통해야하는가?.md",
+    "01_CS_Study/Network/IP.md",
+    "01_CS_Study/DB/용어/롤백.md",
+    "01_CS_Study/DB/용어/Rollback.md",
+    "01_CS_Study/DB/03 DB Index/논클러스티드 인덱스.md.sb-59dd96c8-1y5SUQ",
+    "01_CS_Study/DB/03 DB Index/랜덤 IO, 순차 IO.md.sb-59dd96c8-7TPM3p",
+    "01_CS_Study/DB/03 DB Index/복합 인덱스.md.sb-59dd96c8-yG5Xhp",
+    "01_CS_Study/DB/03 DB Index/옵티마이저.md.sb-59dd96c8-q1bsmx",
+    "01_CS_Study/DB/03 DB Index/인덱스 작동 원리.md.sb-59dd96c8-RIn6Pm",
+    "01_CS_Study/DB/03 DB Index/인덱스.md.sb-59dd96c8-URnk4Y",
+    "SCR-20250723-hmqp.png",
     "SCR-20250721-hhrh.png",
     "images/SCR-20250716-qthp.png",
     "images/SCR-20250716-qsqg.png",

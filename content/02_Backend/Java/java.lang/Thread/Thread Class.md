@@ -1,7 +1,7 @@
 ---
 created: 2025-04-27
 ---
-#java-class
+
 https://docs.oracle.com/javase/8/docs/api/java/lang/Thread.html
 > Java 8 기준 
 ## 개념과 기술 배경

@@ -1,5 +1,7 @@
 ---
 created: 2025-06-17
+tags:
+  - cs/os/concept
 ---
 - CPU 다루기 빡셈
 	- 개발자는

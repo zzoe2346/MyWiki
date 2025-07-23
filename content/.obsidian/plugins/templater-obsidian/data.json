@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "📂99_Archive/Templates",
+  "templates_folder": "99_Archive/Templates",
   "templates_pairs": [
     [
       "",
@@ -29,10 +29,10 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "📂99_Archive/Templates/Default.md"
+    "99_Archive/Templates/Default.md"
   ],
   "startup_templates": [
-    "📂99_Archive/Templates/Default.md"
+    "99_Archive/Templates/Default.md"
   ],
   "intellisense_render": 1
 }
