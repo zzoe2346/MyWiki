@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_CS_Study/DB/용어/실행 계획 항목.md",
+                "file": "04_Personal_Growth/link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실행 계획 항목"
-            }
-          },
-          {
-            "id": "6533ec1470676aa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_CS_Study/OS/공유자원/공유 자원.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "공유 자원"
+              "title": "link"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_CS_Study/OS/공유자원/공유 자원.md",
+                "file": "04_Personal_Growth/link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 공유 자원"
+              "title": "Backlinks for link"
             }
           },
           {
@@ -142,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_CS_Study/OS/공유자원/공유 자원.md",
+                "file": "04_Personal_Growth/link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 공유 자원"
+              "title": "Outgoing links from link"
             }
           },
           {
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_CS_Study/OS/공유자원/공유 자원.md",
+                "file": "04_Personal_Growth/link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 공유 자원"
+              "title": "Outline of link"
             }
           }
         ],
@@ -199,53 +185,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6533ec1470676aa8",
+  "active": "b1bc95ad57e43f20",
   "lastOpenFiles": [
-    "01_CS_Study/OS/공유자원/경쟁 상태 해결 방법.md",
-    "01_CS_Study/OS/공유자원/경쟁 상태 관리의 중요성.md",
-    "01_CS_Study/OS/공유자원/경쟁 상태.md",
-    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Blocking, Non-Blocking.md",
-    "01_CS_Study/OS/Sync, Async, Block, Non-Block/Async Non-Blocking.md",
-    "01_CS_Study/OS/Sync, Async, Block, Non-Block/AIO, IOCPs.md",
-    "01_CS_Study/OS/멀티 태스킹.md",
+    "04_Personal_Growth/Q. 로또번호 7개 셔플 시 어떤 자료구조를 쓰고 로직은 무엇?.md",
+    "10_Personal_Growth/P/25.07.md",
+    "10_Personal_Growth/P/0601(1주차).md",
+    "04_Personal_Growth/회고들.md",
+    "04_Personal_Growth/자동화 할 만한 것들.md",
+    "04_Personal_Growth/Career/Untitled.md",
+    "04_Personal_Growth/Career/이력서 관련.md",
+    "images/IMG_3846.jpeg",
+    "01_CS_Study/DB/용어/스토리지.md",
+    "images/SCR-20250723-hmqp.png",
+    "images/SCR-20250721-hhrh.png",
+    "02_Backend/Spring/LazyConnectionDataSourceProxy.md",
+    "02_Backend/Spring/GEMINI ~.md",
+    "02_Backend/Character Encoding/문자와 문자열.md",
+    "01_CS_Study/Security/용어/디지털 인증서.md",
+    "01_CS_Study/Security/용어/X.509.md",
+    "01_CS_Study/Security/용어/암호화.md",
+    "01_CS_Study/Security/용어",
+    "01_CS_Study/Security/개념",
+    "01_CS_Study/OS/용어/프로세스 메모리 구조.md",
+    "01_CS_Study/OS/용어/다중 프로세스.md",
+    "01_CS_Study/OS/용어/자! 정리.md",
+    "01_CS_Study/OS/용어/Gemini 예제들.md",
+    "01_CS_Study/OS/용어/AIO, IOCPs.md",
+    "01_CS_Study/OS/용어/보조 Stream.md",
+    "01_CS_Study/OS/용어/1.0 동시성이란 무엇인가.md",
+    "01_CS_Study/OS/용어/12.3.1 코루틴(사용자 수준의 스레드).md",
+    "01_CS_Study/OS/용어/리액터 패턴.md",
+    "01_CS_Study/OS/용어/논블로킹 IO.md",
+    "01_CS_Study/OS/용어/asynchronous 정의.md",
+    "01_CS_Study/OS/용어/협동적 멀티태스킹 이점.md",
     "01_CS_Study/OS/개념",
     "01_CS_Study/OS/용어",
-    "01_CS_Study/OS/캐시/시간 지역성.md",
-    "01_CS_Study/OS/캐시/공간 지역성.md",
-    "01_CS_Study/Hardware/용어/CPU.md",
-    "01_CS_Study/Hardware/개념/CPU vs GPU.md",
-    "01_CS_Study/Hardware/용어/CPU Cycle.md",
-    "01_CS_Study/Hardware/개념/병렬 컴퓨터 유형.md",
-    "01_CS_Study/Hardware/용어/캐시.md",
-    "01_CS_Study/Hardware/용어/컴퓨터 클러스터.md",
-    "01_CS_Study/Hardware/개념/동시 하드웨어의 여러 수준.md",
-    "01_CS_Study/Hardware/용어/대칭형 다중 처리 구조(SMP).md",
     "01_CS_Study/Hardware/개념",
     "01_CS_Study/Hardware/용어",
-    "01_CS_Study/Security/CA/디지털 인증서.md",
-    "10_Personal_Growth/good blog.md",
-    "01_CS_Study/Network/용어/1의 보수 합.md",
-    "10_Personal_Growth/link.md",
-    "01_CS_Study/Network/개념/TLS하려면 서버와 클라 둘다 tls 층이 필요한건가.md",
-    "01_CS_Study/Network/개념/TLS는 왜 IP가아닌 도메인을 통해야하는가?.md",
-    "01_CS_Study/Network/IP.md",
-    "01_CS_Study/DB/용어/롤백.md",
-    "01_CS_Study/DB/용어/Rollback.md",
     "01_CS_Study/DB/03 DB Index/논클러스티드 인덱스.md.sb-59dd96c8-1y5SUQ",
     "01_CS_Study/DB/03 DB Index/랜덤 IO, 순차 IO.md.sb-59dd96c8-7TPM3p",
     "01_CS_Study/DB/03 DB Index/복합 인덱스.md.sb-59dd96c8-yG5Xhp",
     "01_CS_Study/DB/03 DB Index/옵티마이저.md.sb-59dd96c8-q1bsmx",
-    "01_CS_Study/DB/03 DB Index/인덱스 작동 원리.md.sb-59dd96c8-RIn6Pm",
-    "01_CS_Study/DB/03 DB Index/인덱스.md.sb-59dd96c8-URnk4Y",
-    "SCR-20250723-hmqp.png",
-    "SCR-20250721-hhrh.png",
     "images/SCR-20250716-qthp.png",
     "images/SCR-20250716-qsqg.png",
     "images/SCR-20250716-qsiy.png",
     "images/SCR-20250716-qrfq.png",
     "images/SCR-20250716-qqvx.png",
     "images/SCR-20250715-qnxw.png",
-    "images/SCR-20250714-hmzh.png",
-    "images/Pasted image 20250714072754.png"
+    "images/SCR-20250714-hmzh.png"
   ]
 }
