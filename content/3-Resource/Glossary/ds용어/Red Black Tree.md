@@ -1,0 +1,4 @@
+---
+tags:
+  - cs/datastructure/term
+---
