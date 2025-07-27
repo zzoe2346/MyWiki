@@ -14,7 +14,7 @@ created: 2025-07-12
 		- LE: 00 AC
 		- BE: AC 00
 	- Java는 내부적으로 UTF-16 BE 씀
-- [[BOM]]
+- [[4-Archive/강의/독하게 시작하는 Java Part 3(하) - 소켓과 파일 IO/개념/BOM]]
 	- U+FEFF(BE)
 	- U+FFFE(LE)
 	- 항상 포함되는건 아니지만 대부분 경우 포함시킴(윈도우 메모장은 항상 포함)

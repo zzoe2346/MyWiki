@@ -8,73 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1621f0cff055f9ce",
+            "id": "ab8b0783e5987ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/블록체인 기초 강의 수강/5. What is Blockchain?.md",
+                "file": "1-Project/블록체인 기초 강의 수강/용어/Web1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. What is Blockchain?"
+              "title": "Web1"
             }
           },
           {
-            "id": "776fa8a05811c2e6",
+            "id": "b245d01b01326e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVM.md",
+                "file": "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/비선점(낙관형) 잠금.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EVM"
+              "title": "비선점(낙관형) 잠금"
             }
           },
           {
-            "id": "f0fa8c4acabd6381",
+            "id": "02706a0cf3da9a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오라클.md",
+                "file": "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/분산 잠금.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "오라클"
-            }
-          },
-          {
-            "id": "3a4ce510d7a42e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "블록체인.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "블록체인"
-            }
-          },
-          {
-            "id": "649b6d9550b4efad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "비트코인.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "비트코인"
+              "title": "분산 잠금"
             }
           }
         ]
@@ -109,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "디자인",
+                "query": "라이브락",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -151,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/블록체인 기초 강의 수강/5. What is Blockchain?.md",
+                "file": "1-Project/블록체인 기초 강의 수강/용어/Web1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5. What is Blockchain?"
+              "title": "Backlinks for Web1"
             }
           },
           {
@@ -170,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/블록체인 기초 강의 수강/5. What is Blockchain?.md",
+                "file": "1-Project/블록체인 기초 강의 수강/용어/Web1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5. What is Blockchain?"
+              "title": "Outgoing links from Web1"
             }
           },
           {
@@ -199,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/블록체인 기초 강의 수강/5. What is Blockchain?.md",
+                "file": "1-Project/블록체인 기초 강의 수강/용어/Web1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5. What is Blockchain?"
+              "title": "Outline of Web1"
             }
           }
         ],
@@ -228,53 +199,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1621f0cff055f9ce",
+  "active": "ab8b0783e5987ce7",
   "lastOpenFiles": [
-    "블록체인.md",
-    "1-Project/블록체인 기초 강의 수강/5. What is Blockchain?.md",
-    "EVM.md",
-    "DApp.md",
-    "Web3.md",
-    "Web2.md",
-    "Web1.md",
-    "L2.md",
-    "오라클.md",
-    "하이브리드 스마트 계약.md",
-    "스마트 계약.md",
-    "이더리움.md",
-    "비트코인.md",
-    "1-Project/블록체인 기초 강의 수강/index.md",
-    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/배치 전송.md",
-    "1-Project/블록체인 기초 강의 수강/블록체인 공부 로드맵.md",
-    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/비동기 도입에 대한 고려.md",
-    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/비동기 연동 방법-CDC 패턴.md",
-    "CDC.md",
-    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/트랜잭션 아웃박스 패턴.md",
-    "1-Project/의문으로 시작하기/왜 비동기로 처리하면 예외가 try-catch에 안걸리나?.md",
-    "아웃박스 테이블.md",
-    "배치.md",
-    "index.md",
-    "Untitled.md",
-    "1-Project/의문으로 시작하기/Q. 로또번호 7개 셔플 시 어떤 자료구조를 쓰고 로직은 무엇?.md",
-    "3-Resource/Glossary/security용어",
-    "2-Area/Security/security용어",
-    "3-Resource/Glossary/os용어",
-    "2-Area/OS/os용어",
-    "3-Resource/Glossary/network용어",
-    "2-Area/Network/network용어",
-    "3-Resource/Glossary/hw용어",
-    "2-Area/Hardware/hw용어",
-    "3-Resource/Glossary/db용어",
-    "2-Area/DB/db용어",
+    "1-Project/블록체인 기초 강의 수강/용어/L2.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/7장 IO 병목, 어떻게 해결하지/경량 스레드.md",
+    "3-Resource/Glossary/DApp.md",
+    "3-Resource/Glossary/스마트 계약.md",
+    "3-Resource/Glossary/블록체인.md",
+    "3-Resource/Glossary/아웃박스 테이블.md",
+    "3-Resource/Glossary/하이브리드 스마트 계약.md",
+    "3-Resource/Glossary/CDC.md",
+    "2-Area/Auth/세션 기반 인증 방식.md",
+    "2-Area/Auth/토큰 기반 인증 방식.md",
+    "2-Area/Auth/JWT.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/커넥션 대기 시간.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/최대 유휴 시간, 유효성 검사, 최대 유지 시간.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/무작정 서버를 늘리는게 능사가 아니다.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/7장 IO 병목, 어떻게 해결하지/가상 스레드로 자원 효율 높이기.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/7장 IO 병목, 어떻게 해결하지/언제 어떤 방법을 택할까.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/7장 IO 병목, 어떻게 해결하지/논블로킹 IO로 성능 더 높이기.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/커넥션 풀 크기.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/4장 외부 연동이 문제일 때 살펴봐야 할 것들/외부 시스템 연동 주의점.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/4장 외부 연동이 문제일 때 살펴봐야 할 것들",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/3장 성능을 좌우하는 DB 설계와 쿼리",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/2장 느려진 서비스, 어디부터 봐야 할까/성능 개선을 위해 알아야 되는 값.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/11장 자주 쓰는 서버 구조와 설계 패턴",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/10장 모르면 답답해지는 네트워크 기초",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/9장 최소한 알고 있어야 할 서버 지식",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/8장 실무에서 꼭 필요한 보안 지식",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/7장 IO 병목, 어떻게 해결하지",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/2장 느려진 서비스, 어디부터 봐야 할까/응답 시간.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/단일 스레드로 처리하기.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/2장 느려진 서비스, 어디부터 봐야 할까",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/Untitled.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/DB와 동시성.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/2장 느려진 서비스, 어디부터 봐야 할까/DB 커넥션 풀.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/synchronized와 ReentrantLock.md",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다",
+    "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까",
     "images/SCR-20250724-hjrn.png",
+    "images/SCR-20250723-hmqp.png",
+    "images/SCR-20250721-hhrh.png",
+    "SCR-20250723-hmqp.png",
+    "SCR-20250721-hhrh.png",
+    "images/Pasted image 20250427100137.png",
     "images/SCR-20250629-pxio.png",
     "images/SCR-20250629-qfqy.png",
     "images/IMG_3846.jpeg",
-    "images/SCR-20250723-hmqp.png",
-    "images/SCR-20250721-hhrh.png",
-    "images/SCR-20250716-qthp.png",
-    "images/SCR-20250716-qsqg.png",
-    "images/SCR-20250716-qsiy.png",
-    "images/SCR-20250716-qrfq.png"
+    "images/SCR-20250716-qthp.png"
   ]
 }

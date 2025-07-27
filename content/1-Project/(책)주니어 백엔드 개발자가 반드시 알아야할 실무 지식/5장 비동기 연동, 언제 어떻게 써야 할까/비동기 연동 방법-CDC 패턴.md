@@ -2,7 +2,7 @@
 tags: 
 created: 2025-07-25
 ---
-오라클, MySQL 같은 DBMS는 데이터가  변경되면 그 변경 내용을 통지하는 기능을 제공함. [[CDC]](Change Data Capture) 패턴은 이 기능을 활용해서 구현.
+오라클, MySQL 같은 DBMS는 데이터가  변경되면 그 변경 내용을 통지하는 기능을 제공함. [[1-Project/블록체인 기초 강의 수강/용어/CDC]](Change Data Capture) 패턴은 이 기능을 활용해서 구현.
 ```mermaid
 sequenceDiagram
 	Note over DB: 1. 데이터 변경
