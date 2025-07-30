@@ -1,7 +1,8 @@
 ---
 created: 2025-07-12
 tags:
-  - cs/db/concept
+  - isolation-level
+  - reqeat
 ---
 - [[2-Area/DB/개념/Serializable]]
 - [[Repeatable Read]]

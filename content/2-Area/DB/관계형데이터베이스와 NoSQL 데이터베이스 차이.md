@@ -1,10 +1,9 @@
 ---
 created: 2025-05-10
 tags:
-  - cs/db/concept
+  - NoSQL
 ---
 - DB-Engines Ranking 참고해보면...
-
 
 |         | RDBMS                     | NoSQL DB                             |
 | ------- | ------------------------- | ------------------------------------ |

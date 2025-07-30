@@ -1,7 +1,8 @@
 ---
 created: 2025-06-15
 tags:
-  - cs/db/concept
+  - Integrity
+  - Consistency
 ---
 - 정확성, [[일관성(Consistency)]], 유효성 유지하는 것 
 - 무결성이 유지되어야 데이터베이스에 저장된 값과 그 값에 해당하는 현실세계의 실제 값이 일치하는 지에대한 신뢰 생김
