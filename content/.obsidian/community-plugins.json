@@ -1,7 +1,4 @@
 [
   "obsidian-excalidraw-plugin",
-  "templater-obsidian",
-  "tag-wrangler",
-  "multi-properties",
-  "global-search-and-replace"
+  "templater-obsidian"
 ]
