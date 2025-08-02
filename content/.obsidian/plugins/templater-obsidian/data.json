@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -28,11 +28,9 @@
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    "99_Archive/Templates/Default.md"
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
-    "99_Archive/Templates/Default.md"
+    "4-Archive/Templates/Default.md"
   ],
   "intellisense_render": 1
 }
