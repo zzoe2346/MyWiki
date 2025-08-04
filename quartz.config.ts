@@ -1,14 +1,15 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
+/**npx quartz build --serve
+
  * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Wiki of Seonghun",
+    pageTitle: "Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
