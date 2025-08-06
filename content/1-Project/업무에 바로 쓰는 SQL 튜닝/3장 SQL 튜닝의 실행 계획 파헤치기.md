@@ -201,7 +201,136 @@ type 정보의 Using index condition 유형과 비슷하나, 데이터 검색하
 
 예를 들어 `SELECT * FROM t1 LEFT JOIN t2 on (...) WHERE t2.not_null_column IS NULL;` 이라는 쿼리에서 t1, t2 테이블 조건에 일치하는 데이터 없는 경우 그 값이 NULL이 될 수 있으므로, 일치하는 행 하나를 찾았으니 검색을 중지한다. 이 상황일때 Not exists 가 발생.
 ### 3.2.3 좋고 나쁨을 판단하는 기준
-
+실행 계획을 보더라도, 튜닝 대상인지 아닌지 판단하는 것은 어렵다. 하지만 그간의 튜닝 경험을 바탕으로 나름의 기준을 수립하고 각 상황에 맞게 검토 대상을 추출할 수는 있다. 단언하기는 어렵지만 튜닝 대상을 검토할 때 다음과 같은 기준을 참조할 수는 있다. 검토 대상인 열은 select_type, type, extra 이다.
+![[SCR-20250807-gmwd.jpeg]]
 ### 3.2.4 확장된 실행 계획 수행
+EXPLAIN 을 실행 계획을 확인할 때 쓰지만, 추가 정보를 확인하고자 한다면 DB에서 각각 지원하는 키워드를 입력할 수 있다. MySQL과 MariaDB가 수행하는 확장 실행 명령어가 서로 다르니 다믕과 같이 구분해서 실행해보자.
+
+#### MySQL의 확장된 실행 계획 수행
+**EXPLAIN FORMAT = TRADITIONAL**
+
+기본적인 실행 계획은 EXPLAIN 키워드로 입력하며 기본 포맷은 TRADITIONAL이다. 항상 보던 실행 계획 형태가 조회된다.
+
+**EXPLAIN FORMAT = TREE**
+
+포맷 값에 TREE를 입력하면 트리 형태로 추가된 실행 계획을 확인할 수 있다.
+
+**EXPLAIN FORMAT = JSON**
+
+JSON 형태로 실행 계획을 확인할 수 있다.
+
+**EXPLAIN ANALYZE**
+
+그동안 출력된 실행 계획은 예측된 실핼 계왹에 관한 정보. 만약 실제 측정한 실행 계획을 출력하고 싶다면 ANALYZE 를 쓴다. 실제 수행된 소요 시간과 비용을 측정하여 실측 실행 계획과 예측 실행 계획 모두를 확인하려면 EXPLAIN ANALYZE 키워드를 활용하면 된다. MySQL 8.0.18 이상에서 SELECT 문 대상으로 수행 가능하다.
+
+![[SCR-20250807-gpav.png]]
+#### MariaDB의 확장된 실행 계획 수행
+
+**EXPLAIN PARTITIONS**
+
+파티션으로 설정된 테이블에 대해 접근 대상인 파티션 정보를 출력한다.
+
+**EXPLAIN EXTENEDE**
+
+스토리지 엔진에서 가져온 데이터를 다시 MySQL 엔진에서 추출한 비율일 filtered 열의 값을 추가로 출력한다.
+
+**ANALYZE**
+
+MariaDB 10.1 이상에서 ANALYZE 키워드만으로 실제 측정한 실행 계획 정보가 출력된다. 실제 액세스한 데이터 건수(r_rows)와 MySQL 엔진에서 가져온 데이터에서 추가루 추출한 데이터의 비율(r_filtered)을 확인할 수 있다.
+
+![[SCR-20250807-gram.png]]
 ## 3.3 프로파일링
+프로파일링은 마치 범죄수사에서 실마리를 찾기위해 분석하는 것 처럼 쿼리문에서도 문제가 되는 병목 지점을 찾고자 사용되는 수단이나 틀을 가리킨다. slow query 나 문제가 있다 의심되는 SQL 문의 원인을 확인할 수 있다.
+
+프로파일을 확인하는 과정은 툴이 아닌 명령줄에서 수행한다. 툴은 사용자의 의도와 무관하게 백그라운드에서 호출되는 sql이 있으므로, 예상치 않은 쿼리가 프로파일링이 되지 않도록 CLI를 여기서는 쓴다.
+### 3.3.1 SQL 프로파일링 실행하기
+실습 대상 디비에 접속하고 프로파일링 설정값을 확인한다. MySQL은 기본적으로 비활성화 되어있어서 활성화 해줘야한다.
+
+```
+show variables like 'profiling%'
+set profiling = 'ON'
+
+아무 select 실행후
+
+show profiles
+```
+
+![[SCR-20250807-hehf.png]]
+
+특정 쿼리 ID에 대해서만 프로파일링된 상세 내용을 확인하고자 한다면, 쿼리 ID를 입력하여 다음과 같은 문법으로 결과를확인한다.
+
+`show profile for query #`
+
+Status, Duration 컬럼을 가진 결과로 나오는데 Duration이 길면 문제가 될 소지가 높은 구간으로 볼 수 있다.
+
+
+![[SCR-20250807-hezj.png]]
+...
+
+### 3.3.2 프로파일링 결과 해석하기
+
+일반적인 프로파일링 항목
+
+| 항목                   | 설명        |
+| -------------------- | --------- |
+| starting             | 쿼리 시작     |
+| checking permissions | 필요 권한 확인  |
+| Opening tables       | 테이블 열기    |
+| After opening tables | 테이블 연 후   |
+| System lock          | 시스템 잠금    |
+| Table lock           | 테이블 잠금    |
+| init                 | 초기화       |
+| optimizing           | 최적화       |
+| statistics           | 통계        |
+| perparing            | 준비        |
+| exeuting             | 실행        |
+| Sending data         | 데이터 보내기   |
+| end                  | 끝         |
+| query end            | 질의 끝      |
+| closing tables       | 테이블 닫기    |
+| Unlocking tables     | 잠금 해제 테이블 |
+| freeing iterms       | 항목 해방     |
+| updating status      | 상태 업데이트   |
+| cleaning up          | 청소        |
+프로파일링의 추가 정보 확인하려면 다음 표에 기재된 키워드 작성하여 구체적으로 분석이 가능하다. show profile 구문에 해당 키워드 작성하여 Block I/O, CPU, SWAP 횟수 등에 대한 OS 수준의 확장된 정보 제공받을 수 있다.
+
+
+| 옵션               | 설명                                        |
+| ---------------- | ----------------------------------------- |
+| ALL              | 모든 정보 표시                                  |
+| BLOCK ID         | 블록 입력 및 출력 작업의 횟수 표시                      |
+| CONTEXT SWITCHES | 자발적 및 비자발적인 컨텍스트 스위치 수 표시                 |
+| CPU              | 사용자 및 시스템 CPU 사용 기간 표시                    |
+| IPC              | 보내고 받은 메시지의 수 표시                          |
+| PAGE FAULTS      | 주 페이지 오류 및 부 페이지 오류 수 표시                  |
+| SOURCE           | 함수가 발생하는 파일 이름과 행 번호와 함께 소스 코드의 함수 이름을 표시 |
+| SWAPS            | 스왑 카운트 표시                                 |
+`show profile all for query 1` 같이 사용하면 된다.
+
+확장된 프로파일링 출력 항복에 관한 설명은 다음 표와 같다. 운영체제 관점에서 발생하는 지표를 상세한 수준으로 제공한다.
+
+
+| 항목                  | 설명                                   |
+| ------------------- | ------------------------------------ |
+| QUERY_ID            | 쿼리 아이디                               |
+| SEQ                 | 동일한 QUERY_ID를 갖는 행의 표시 순서를 보여주는 일련번호 |
+| STATE               | 프로파일링 상태                             |
+| DURATION            | 명령문이 현재 상태에 있었던 시간(초)                |
+| CPU_USER            | 사용자 cpu 사용량(초)                       |
+| CPU_SYSTEM          | 시스템 cpu 사용량(초)                       |
+| CONTEXT_VOLUNTARY   | 자발적 컨텍스트 전환의 수                       |
+| CONTEXT_INVOLUNTARY | 무의식적 컨텍스트 전환의 수                      |
+| BLOCK_OPS_IN        | 블록 입력 조작의 수                          |
+| BLOCK_OPS_OUT       | 블록 출력 조작의 수                          |
+| MESSAGES_SENT       | 전송된 통신 수                             |
+| MESSAGES_RECEIVED   | 수신된 통신 수                             |
+| PAGE_FAULTS_MAJOR   | 메이저 페이지 폴트의 수                        |
+| PAGE_FAULTS_MINOR   | 마이너 페이지 폴트의 수                        |
+| SWAPS               | 스왑 수                                 |
+| SOURCE_FUNCTION     | 프로파일링된 상태로 실행되는 소스 코드의 기능            |
+| SOURCE_FILE         | 프로파일링된 상태로 실행된 소스 코드의 파일             |
+| SOURCE_LINE         | 프로파일링된 상태로 실행된 소스 코드의 행              |
+
+
 ## 3.4 마치며 
+다양한 툴(예측 실행 계획, 실측 실행 계획, 프로파일링)들이 있지만, 보통 제한된 업무 조건에서 튜닝을 수행하므로 예측 실행 계획 정보를 기준으로 이 책에서는 튜닝을 진행할 예정이다.
