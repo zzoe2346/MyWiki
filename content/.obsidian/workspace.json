@@ -35,7 +35,8 @@
               "title": "01. HTTP 개관"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -156,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
+                "file": "1-Project/HTTP 완벽 가이드/01. HTTP 개관.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3장 SQL 튜닝의 실행 계획 파헤치기"
+              "title": "Outline of 01. HTTP 개관"
             }
           }
         ],
@@ -186,8 +188,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "31b9f4c5220251ad",
+  "active": "2f101d22040b9d53",
   "lastOpenFiles": [
+    "images/SCR-20250806-liur.png",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
     "images/SCR-20250806-hrpv.jpeg",
     "images/SCR-20250806-hazd.png",
     "2-Area/계획/25년 계획.md",
@@ -205,7 +210,6 @@
     "1-Project/BLOCKED_PROJECT/그로킹 동시성/1.1 동시성 중요성.md",
     "1-Project/BLOCKED_PROJECT/그로킹 동시성/04 동시성을 구현하는 재료.md",
     "1-Project/BLOCKED_PROJECT/그로킹 동시성/03 컴퓨터의 동작 원리.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
     "1-Project/HTTP 완벽 가이드/01. HTTP 개관.md",
     "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/다중열 서브쿼리.md",
     "2-Area/DB/db용어/격리성(Isolation).md",
@@ -215,7 +219,6 @@
     "2-Area/DB/락 종류.md",
     "2-Area/DB/인덱스 성능 최적화.md",
     "2-Area/DB/정합성(무결성)에는 수준이 있다.md",
-    "2-Area/DB/쿼리 플랜 실전.md",
     "images/SCR-20250805-grgc.png",
     "images/SCR-20250805-gpea.png",
     "images/SCR-20250805-goef.png",
@@ -232,7 +235,6 @@
     "1-Project/Java Part 4 - Spring을 향하여",
     "1-Project/BLOCKED_PROJECT/CS 지식의 정석/섹션 3. 네트워크",
     "1-Project/업무에 바로 쓰는 SQL 튜닝",
-    "2-Area/커리어",
-    "images/Pasted image 20250801215658.png"
+    "2-Area/커리어"
   ]
 }
