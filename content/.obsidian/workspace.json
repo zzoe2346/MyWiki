@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
+                "file": "2-Area/계획/25년 계획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. 커넥션 관리"
+              "title": "25년 계획"
             }
           },
           {
@@ -27,15 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리/02 운영체제 개요.md",
+                "file": "DRAFT/젬민이 트래픽 플젝 조언.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 운영체제 개요"
+              "title": "젬민이 트래픽 플젝 조언"
+            }
+          },
+          {
+            "id": "59e4788fd645b74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "섹션 2. 클래스 - 첫 번째"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
+                "file": "2-Area/계획/25년 계획.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04. 커넥션 관리"
+              "title": "Outline of 25년 계획"
             }
           }
         ],
@@ -182,57 +197,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "audio-recorder:Start/stop recording": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "31b9f4c5220251ad",
+  "active": "59e4788fd645b74a",
   "lastOpenFiles": [
-    "images/SCR-20250808-hgpe.png",
-    "images/SCR-20250808-hglq.png",
-    "1-Project/HTTP 완벽 가이드/05. 웹서버.md",
+    "2-Area/계획/25년 계획.md",
+    "2-Area/기술 아티클/아티클 후기.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/4장 악성 SQL 튜닝으로 초보자 탈출하기.md",
     "1-Project/HTTP 완벽 가이드/11. 클라이언트 식별과 쿠키.md",
+    "1-Project/HTTP 완벽 가이드/10. HTTP 2.0.md",
+    "DRAFT/젬민이 트래픽 플젝 조언.md",
+    "1-Project/실전 Tech",
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
     "1-Project/HTTP 완벽 가이드/14. 보안 HTTP.md",
+    "images/SCR-20250809-qfab.jpeg",
+    "images/SCR-20250809-qeyb.jpeg",
+    "1-Project/HTTP 완벽 가이드/06. 프락시.md",
+    "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리/02 운영체제 개요.md",
+    "images/SCR-20250809-mfjo.jpeg",
+    "images/SCR-20250809-mdpf.png",
+    "images/SCR-20250809-mdmi.jpeg",
+    "images/SCR-20250809-mdkb.jpeg",
+    "images/SCR-20250809-mdew.png",
+    "images/SCR-20250809-mcyr.jpeg",
+    "images/SCR-20250809-mcum.jpeg",
+    "1-Project/HTTP 완벽 가이드/계획.md",
+    "images/SCR-20250809-lzet.jpeg",
+    "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
+    "1-Project/HTTP 완벽 가이드/05. 웹서버.md",
+    "1-Project/HTTP 완벽 가이드/03. HTTP 메시지.md",
+    "1-Project/HTTP 완벽 가이드/02. URL과 리소스.md",
     "1-Project/HTTP 완벽 가이드/17. 내용 협상과 트랜스코딩.md",
     "1-Project/HTTP 완벽 가이드/16. 국제화.md",
     "1-Project/HTTP 완벽 가이드/15. 엔터티와 인코딩.md",
-    "1-Project/HTTP 완벽 가이드/10. HTTP 2.0.md",
-    "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
-    "images/Pasted image 20250807194347.png",
-    "images/Pasted image 20250807194340.png",
-    "images/SCR-20250807-qtqf.png",
-    "images/SCR-20250807-qrxm.png",
-    "images/SCR-20250807-lgdf.jpeg",
-    "images/SCR-20250807-leri.jpeg",
     "1-Project/업무에 바로 쓰는 SQL 튜닝/5장 악성 SQL 튜닝으로 전문가 되기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/4장 악성 SQL 튜닝으로 초보자 탈출하기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
     "1-Project/업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기.md",
-    "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
-    "1-Project/HTTP 완벽 가이드/02. URL과 리소스.md",
-    "1-Project/HTTP 완벽 가이드/03. HTTP 메시지.md",
-    "images/SCR-20250807-hmqa.png",
     "1-Project/HTTP 완벽 가이드/01. HTTP 개관.md",
-    "2-Area/계획/25년 계획.md",
-    "images/SCR-20250807-hezj.png",
-    "images/SCR-20250807-hehf.png",
-    "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리/02 운영체제 개요.md",
     "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리/01 컴퓨터 및 정보기술의 역사.md",
     "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리",
     "2-Area/계획/독서 계획.md",
     "1-Project/BLOCKED_PROJECT/그로킹 동시성/01 동시성이란 무엇인가.md",
     "1-Project/BLOCKED_PROJECT/명품 운영체제",
     "1-Project/BLOCKED_PROJECT/그로킹 동시성/CPU vs GPU.md",
-    "1-Project/BLOCKED_PROJECT/그로킹 동시성/동시 하드웨어의 여러 수준.md",
-    "1-Project/BLOCKED_PROJECT/그로킹 동시성/6.1 CPU-bound과 IO-bound.md",
-    "1-Project/BLOCKED_PROJECT/그로킹 동시성/2.9 동시성 vs 병렬성.md",
     "1-Project/HTTP 완벽 가이드",
     "1-Project/BLOCKED_PROJECT/딩코딩코",
     "1-Project/BLOCKED_PROJECT/CS 지식의 정석/섹션 1. 개발자 필수지식",
     "1-Project/업무에 바로 쓰는 SQL 튜닝/용어",
     "DRAFT/개인적",
     "1-Project/Java Part 4 - Spring을 향하여",
-    "1-Project/BLOCKED_PROJECT/CS 지식의 정석/섹션 3. 네트워크",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝"
+    "1-Project/BLOCKED_PROJECT/CS 지식의 정석/섹션 3. 네트워크"
   ]
 }
