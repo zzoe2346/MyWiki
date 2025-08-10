@@ -11,14 +11,12 @@
             "id": "31b9f4c5220251ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2-Area/계획/25년 계획.md",
-                "mode": "source",
-                "source": false
+                "file": "DRAFT/CS 정석- 네트워크 .pdf"
               },
-              "icon": "lucide-file",
-              "title": "25년 계획"
+              "icon": "lucide-file-text",
+              "title": "CS 정석- 네트워크"
             }
           },
           {
@@ -41,6 +39,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 11. 예외 처리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "섹션 11. 예외 처리"
+            }
+          },
+          {
+            "id": "153818ccb32a19a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Project/CS 지식의 정석/섹션 3. 네트워크/TCP 연결 성립 과정 - 3 way handshake.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCP 연결 성립 과정 - 3 way handshake"
+            }
+          },
+          {
+            "id": "a5551317f28235ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
                 "mode": "source",
                 "source": false
@@ -49,8 +75,7 @@
               "title": "섹션 2. 클래스 - 첫 번째"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -200,53 +225,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59e4788fd645b74a",
+  "active": "b1bc95ad57e43f20",
   "lastOpenFiles": [
+    "DRAFT/출근전 퇴근후 충만한 하루.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/트랜스포트 계층.md",
+    "DRAFT/CS 정석- 네트워크 .pdf",
+    "CS - 네트워크 (2).pdf",
+    "DRAFT/Untitled",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/허프만 인코딩 압축.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/SMTP.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/SSH.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TCP.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TCP 연결 성립 과정 - 3 way handshake.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TCP 연결 해제 과정 - 4 way handshake 와 TIME_WAIT.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TCP IP 4 Layer.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TCP VS UDP.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TLS 핸드셰이크⭐️⭐️(다시봐야함).md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TLS는 왜 IP가아닌 도메인을 통해야하는가?.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TLS하려면 서버와 클라 둘다 tls 층이 필요한건가.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/5. TCP IP 4 계층.md",
     "2-Area/계획/25년 계획.md",
-    "2-Area/기술 아티클/아티클 후기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/4장 악성 SQL 튜닝으로 초보자 탈출하기.md",
-    "1-Project/HTTP 완벽 가이드/11. 클라이언트 식별과 쿠키.md",
-    "1-Project/HTTP 완벽 가이드/10. HTTP 2.0.md",
-    "DRAFT/젬민이 트래픽 플젝 조언.md",
-    "1-Project/실전 Tech",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/1. 네트워크 기초.md",
+    "1-Project/코드 너머, 회사보다 오래 남을 개발자/ch01 성장 지옥에서 탈출할 비기, 소프트 스킬.md",
+    "DRAFT/⭐️⭐️OpenMarketSystem/2. 요구사항 분석.md",
+    "DRAFT/⭐️⭐️OpenMarketSystem/1. OMS 아이디어 도출!.md",
+    "DRAFT/⭐️⭐️OpenMarketSystem",
+    "4-Archive/필수 볼 것 들.md",
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 11. 예외 처리.md",
+    "images/Pasted image 20250810180411.png",
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 5. 다형성.md",
+    "images/Pasted image 20250810174259.png",
+    "DRAFT/⭐️평생 코테 준비!",
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 4. 상속과 관계.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
-    "1-Project/HTTP 완벽 가이드/14. 보안 HTTP.md",
+    "images/Pasted image 20250810124448.png",
+    "2-Area/계획/독서 계획.md",
+    "1-Project/CS 지식의 정석/섹션 3. 네트워크/1.0 과 1.1 차이.md",
+    "1-Project/실전 Tech",
     "images/SCR-20250809-qfab.jpeg",
     "images/SCR-20250809-qeyb.jpeg",
-    "1-Project/HTTP 완벽 가이드/06. 프락시.md",
-    "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리/02 운영체제 개요.md",
     "images/SCR-20250809-mfjo.jpeg",
     "images/SCR-20250809-mdpf.png",
     "images/SCR-20250809-mdmi.jpeg",
     "images/SCR-20250809-mdkb.jpeg",
     "images/SCR-20250809-mdew.png",
-    "images/SCR-20250809-mcyr.jpeg",
-    "images/SCR-20250809-mcum.jpeg",
-    "1-Project/HTTP 완벽 가이드/계획.md",
-    "images/SCR-20250809-lzet.jpeg",
-    "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
-    "1-Project/HTTP 완벽 가이드/05. 웹서버.md",
-    "1-Project/HTTP 완벽 가이드/03. HTTP 메시지.md",
-    "1-Project/HTTP 완벽 가이드/02. URL과 리소스.md",
-    "1-Project/HTTP 완벽 가이드/17. 내용 협상과 트랜스코딩.md",
-    "1-Project/HTTP 완벽 가이드/16. 국제화.md",
-    "1-Project/HTTP 완벽 가이드/15. 엔터티와 인코딩.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/5장 악성 SQL 튜닝으로 전문가 되기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기.md",
-    "1-Project/HTTP 완벽 가이드/01. HTTP 개관.md",
-    "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리/01 컴퓨터 및 정보기술의 역사.md",
     "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리",
-    "2-Area/계획/독서 계획.md",
-    "1-Project/BLOCKED_PROJECT/그로킹 동시성/01 동시성이란 무엇인가.md",
     "1-Project/BLOCKED_PROJECT/명품 운영체제",
-    "1-Project/BLOCKED_PROJECT/그로킹 동시성/CPU vs GPU.md",
     "1-Project/HTTP 완벽 가이드",
-    "1-Project/BLOCKED_PROJECT/딩코딩코",
-    "1-Project/BLOCKED_PROJECT/CS 지식의 정석/섹션 1. 개발자 필수지식",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어",
-    "DRAFT/개인적",
-    "1-Project/Java Part 4 - Spring을 향하여",
-    "1-Project/BLOCKED_PROJECT/CS 지식의 정석/섹션 3. 네트워크"
+    "1-Project/BLOCKED_PROJECT/딩코딩코"
   ]
 }
