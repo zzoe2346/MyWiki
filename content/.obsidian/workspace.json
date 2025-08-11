@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/나만의 요약/네트워크/TCP.md",
+                "file": "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.1 트랜스포트 계층 서비스 및 개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP"
+              "title": "3.1 트랜스포트 계층 서비스 및 개요"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.1 트랜스포트 계층 서비스 및 개요.md",
+                "file": "4-Archive/고민해볼거.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 트랜스포트 계층 서비스 및 개요"
+              "title": "고민해볼거"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -200,17 +201,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a5551317f28235ed",
+  "active": "cc483e0866f8eab3",
   "lastOpenFiles": [
+    "images/SCR-20250811-lilo.jpeg",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/진도.md",
+    "1-Project/HTTP 완벽 가이드/06. 프락시.md",
+    "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
+    "1-Project/HTTP 완벽 가이드/03. HTTP 메시지.md",
+    "1-Project/HTTP 완벽 가이드/01. HTTP 개관.md",
+    "1-Project/나만의 요약/네트워크/TCP.md",
+    "4-Archive/고민해볼거.md",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.1 트랜스포트 계층 서비스 및 개요.md",
     "1-Project/나만의 요약/네트워크/OSI 7계층과 TCP&IP 4계층.md",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층",
     "1-Project/컴퓨터 네트워킹 하향식 접근",
-    "1-Project/HTTP 완벽 가이드/06. 프락시.md",
-    "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
-    "1-Project/나만의 요약/네트워크/TCP.md",
     "1-Project/나만의 요약/네트워크/IP 주소.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 4. 상속과 관계.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 5. 다형성.md",
@@ -231,10 +236,6 @@
     "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/웹 브라우저 캐시(로컬스토리지, 세션스토리지, 쿠키 공통점과 차이점).md",
     "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/추상화란 무엇인가? ⭐️⭐️⭐️.md",
     "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/컴파일러와 인터프리터의 차이는?(with JIT) ⭐️.md",
-    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/클래스와 객체와 인스턴스의 차이 ⭐️⭐️⭐️.md",
-    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/API.md",
-    "1-Project/HTTP 완벽 가이드/10. HTTP 2.0.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
     "1-Project/나만의 요약",
     "DRAFT/CS 정석- 네트워크 .pdf",
     "CS - 네트워크 (2).pdf",
