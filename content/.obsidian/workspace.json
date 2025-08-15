@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 11. 예외 처리.md",
+                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 6.  JVM 기본 이론.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "섹션 11. 예외 처리"
+              "title": "섹션 6.  JVM 기본 이론"
             }
           },
           {
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 11. 예외 처리.md",
+                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 6.  JVM 기본 이론.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 섹션 11. 예외 처리"
+              "title": "Outline of 섹션 6.  JVM 기본 이론"
             }
           }
         ],
@@ -201,11 +202,24 @@
   },
   "active": "2f101d22040b9d53",
   "lastOpenFiles": [
+    "images/Pasted image 20250815225618.png",
+    "images/Pasted image 20250815224104.png",
+    "images/Pasted image 20250815221858.png",
+    "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.5 연결지향형 트랜스포트 - TCP.md",
+    "images/SCR-20250814-qutl.jpeg",
+    "images/SCR-20250814-qsrs.jpeg",
+    "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
+    "1-Project/HTTP 완벽 가이드/03. HTTP 메시지.md",
+    "1-Project/HTTP 완벽 가이드/02. URL과 리소스.md",
+    "images/SCR-20250814-lijl.jpeg",
+    "images/SCR-20250814-lhbl.png",
+    "images/SCR-20250814-lben.jpeg",
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 11. 예외 처리.md",
+    "2-Area/계획/25년 계획.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 6.  JVM 기본 이론.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 5. 다형성.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 4. 상속과 관계.md",
-    "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.5 연결지향형 트랜스포트 - TCP.md",
     "1-Project/HTTP 완벽 가이드/15. 엔터티와 인코딩.md",
     "1-Project/HTTP 완벽 가이드/11. 클라이언트 식별과 쿠키.md",
     "1-Project/HTTP 완벽 가이드/14. 보안 HTTP.md",
@@ -214,15 +228,7 @@
     "images/SCR-20250814-hrwg.jpeg",
     "images/SCR-20250814-hkos.jpeg",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.1 트랜스포트 계층 서비스 및 개요.md",
-    "1-Project/HTTP 완벽 가이드/02. URL과 리소스.md",
-    "images/SCR-20250814-gqoe.jpeg",
-    "images/Pasted image 20250813201917.png",
-    "images/Pasted image 20250813200059.png",
-    "images/SCR-20250813-rfpn.jpeg",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.4 신뢰적인 데이터 전송의 원리.md",
-    "images/SCR-20250813-qrad.jpeg",
-    "images/SCR-20250813-qqxt.jpeg",
-    "images/SCR-20250813-qpum.jpeg",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.3 비연결형 트랜스포트 - UDP.md",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/진도.md",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.2 다중화와 역다중화.md",
@@ -232,11 +238,6 @@
     "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/핫 코드.md",
     "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 대표 특징.md",
     "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 기술 시스템.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/4장 악성 SQL 튜닝으로 초보자 탈출하기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요.md",
-    "3-Resource/Glossary/용어집.md",
-    "1-Project/HTTP 완벽 가이드/06. 프락시.md",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층",
     "1-Project/컴퓨터 네트워킹 하향식 접근",
     "1-Project/나만의 요약/네트워크",
