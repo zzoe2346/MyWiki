@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 6.  JVM 기본 이론.md",
+                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 8. 불변 객체와 String 클래스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "섹션 6.  JVM 기본 이론"
+              "title": "섹션 8. 불변 객체와 String 클래스"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 6.  JVM 기본 이론.md",
+                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 8. 불변 객체와 String 클래스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 섹션 6.  JVM 기본 이론"
+              "title": "Outline of 섹션 8. 불변 객체와 String 클래스"
             }
           }
         ],
@@ -202,6 +202,11 @@
   },
   "active": "2f101d22040b9d53",
   "lastOpenFiles": [
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 7. JVM 과 GC 그리고 객체.md",
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 8. 불변 객체와 String 클래스.md",
+    "images/Pasted image 20250816195555.png",
+    "images/Pasted image 20250816172628.png",
+    "1-Project/Java Part 2 - OOP와 JVM/섹션 6.  JVM 기본 이론.md",
     "images/Pasted image 20250815225618.png",
     "images/Pasted image 20250815224104.png",
     "images/Pasted image 20250815221858.png",
@@ -216,7 +221,6 @@
     "images/SCR-20250814-lben.jpeg",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 11. 예외 처리.md",
     "2-Area/계획/25년 계획.md",
-    "1-Project/Java Part 2 - OOP와 JVM/섹션 6.  JVM 기본 이론.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 5. 다형성.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 2. 클래스 - 첫 번째.md",
     "1-Project/Java Part 2 - OOP와 JVM/섹션 4. 상속과 관계.md",
@@ -224,9 +228,6 @@
     "1-Project/HTTP 완벽 가이드/11. 클라이언트 식별과 쿠키.md",
     "1-Project/HTTP 완벽 가이드/14. 보안 HTTP.md",
     "1-Project/HTTP 완벽 가이드/10. HTTP 2.0.md",
-    "images/SCR-20250814-hrxy.jpeg",
-    "images/SCR-20250814-hrwg.jpeg",
-    "images/SCR-20250814-hkos.jpeg",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.1 트랜스포트 계층 서비스 및 개요.md",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.4 신뢰적인 데이터 전송의 원리.md",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.3 비연결형 트랜스포트 - UDP.md",
@@ -237,7 +238,6 @@
     "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/2장 자바 메모리 영역과 메모리 오버플로/2.2 런타임 데이터 영역.md",
     "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/핫 코드.md",
     "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 대표 특징.md",
-    "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 기술 시스템.md",
     "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층",
     "1-Project/컴퓨터 네트워킹 하향식 접근",
     "1-Project/나만의 요약/네트워크",
