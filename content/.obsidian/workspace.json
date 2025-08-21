@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f101d22040b9d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.7 TCP 혼잡 제어.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.7 TCP 혼잡 제어"
-            }
-          },
-          {
             "id": "cc483e0866f8eab3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/HTTP 완벽 가이드/02. URL과 리소스.md",
+                "file": "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 대표 특징.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. URL과 리소스"
+              "title": "자바 대표 특징"
             }
           },
           {
@@ -48,8 +34,21 @@
               "icon": "lucide-file",
               "title": "섹션 6.  JVM 기본 이론"
             }
+          },
+          {
+            "id": "ce81c3ab096f2869",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DRAFT/CS 정석- 네트워크 .pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CS 정석- 네트워크"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "토스",
+                "query": "ROW_NUM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.50390243530273
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/7장 IO 병목, 어떻게 해결하지/언제 어떤 방법을 택할까.md",
+                "file": "DRAFT/CS 정석- 네트워크 .pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 언제 어떤 방법을 택할까"
+              "title": "Backlinks for CS 정석- 네트워크"
             }
           },
           {
@@ -141,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/(책)주니어 백엔드 개발자가 반드시 알아야할 실무 지식/7장 IO 병목, 어떻게 해결하지/언제 어떤 방법을 택할까.md",
+                "file": "DRAFT/CS 정석- 네트워크 .pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 언제 어떤 방법을 택할까"
+              "title": "Outgoing links from CS 정석- 네트워크"
             }
           },
           {
@@ -170,22 +169,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFT/⭐️평생 코테 준비!/(30804)투 포인터.md",
+                "file": "DRAFT/CS 정석- 네트워크 .pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (30804)투 포인터"
+              "title": "Outline of CS 정석- 네트워크"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,36 +196,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f101d22040b9d53",
+  "active": "ce81c3ab096f2869",
   "lastOpenFiles": [
-    "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.8 트랜스포트 계층 기능의 발전.md",
-    "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.7 TCP 혼잡 제어.md",
-    "DRAFT/사이드 프로젝트 후보/URL 단축기.md",
+    "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 대표 특징.md",
+    "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 기술 시스템.md",
+    "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/프론트 컨트롤러.md",
+    "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/스프링 부트 살펴보기.md",
+    "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/@AutoConfiguartion.md",
+    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/Q. 로또번호 7개 셔플 시 어떤 자료구조를 쓰고 로직은 무엇?.md",
+    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/옵티마이저는 항상 옳지 않음.md",
+    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/왜 비동기로 처리하면 예외가 try-catch에 안걸리나?.md",
+    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/배열이 왜 CPU Cache에 유리한가?.md",
+    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/불편하다고 느끼는 것들.md",
+    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/<주제> 외래키가 공유락을 건다?!.md",
+    "1-Project/BLOCKED_PROJECT/블록체인 기초 강의 수강/5. What is Blockchain?.md",
+    "1-Project/BLOCKED_PROJECT/그로킹 동시성/2.7 암달의 법칙.md",
+    "1-Project/BLOCKED_PROJECT/그로킹 동시성/01 동시성이란 무엇인가.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/중첩 서브쿼리.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/인라인 뷰.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/스칼라 서브쿼리.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/상관 서브쿼리.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/비상관 서브쿼리.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/단일행 서브쿼리.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/다중행 서브쿼리.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/다중열 서브쿼리.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
+    "1-Project/업무에 바로 쓰는 SQL 튜닝/4장 악성 SQL 튜닝으로 초보자 탈출하기.md",
     "DRAFT/사이드 프로젝트 후보",
     "images/SCR-20250820-hkit.png",
-    "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.6 혼잡 제어의 원리.md",
-    "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.5 연결지향형 트랜스포트 - TCP.md",
-    "1-Project/코드 너머, 회사보다 오래 남을 개발자/ch01 성장 지옥에서 탈출할 비기, 소프트 스킬.md",
-    "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/진도.md",
-    "1-Project/HTTP 완벽 가이드/04. 커넥션 관리.md",
-    "1-Project/HTTP 완벽 가이드/06. 프락시.md",
-    "1-Project/HTTP 완벽 가이드/10. HTTP 2.0.md",
-    "1-Project/HTTP 완벽 가이드/11. 클라이언트 식별과 쿠키.md",
-    "1-Project/HTTP 완벽 가이드/14. 보안 HTTP.md",
-    "1-Project/HTTP 완벽 가이드/15. 엔터티와 인코딩.md",
-    "1-Project/HTTP 완벽 가이드/16. 국제화.md",
-    "1-Project/HTTP 완벽 가이드/17. 내용 협상과 트랜스코딩.md",
-    "1-Project/HTTP 완벽 가이드/01. HTTP 개관.md",
-    "1-Project/HTTP 완벽 가이드/02. URL과 리소스.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/UDP.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/간단히 알아보는 TCP.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/네트워크 기초.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/SMTP.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/SSH.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/TCP.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/HTTP.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/트랜스포트 계층.md",
-    "1-Project/CS 지식의 정석/섹션 3. 네트워크/네트워크(링크) 계층.md",
     "1-Project/Toss SLASH",
     "DRAFT/CS 정석- 네트워크 .pdf",
     "images/Pasted image 20250818075701.png",
@@ -240,8 +237,8 @@
     "images/SCR-20250814-qutl.jpeg",
     "images/SCR-20250814-qsrs.jpeg",
     "images/SCR-20250814-lijl.jpeg",
-    "1-Project/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층",
-    "1-Project/컴퓨터 네트워킹 하향식 접근",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근",
     "1-Project/나만의 요약/네트워크",
     "1-Project/나만의 요약",
     "CS - 네트워크 (2).pdf",

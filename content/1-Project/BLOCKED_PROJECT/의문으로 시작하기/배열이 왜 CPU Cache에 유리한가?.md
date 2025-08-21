@@ -2,4 +2,3 @@
 tags: 
 created: 2025-07-24
 ---
-createdcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreatedcreated <example await tp.system.prompt("저자명") %>
