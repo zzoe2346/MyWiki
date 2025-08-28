@@ -4,51 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b78fe1b1afd9f341",
+        "id": "bcd40b43510b007d",
         "type": "tabs",
         "children": [
           {
-            "id": "cc483e0866f8eab3",
+            "id": "9ef0d009b3e964f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 대표 특징.md",
+                "file": "2-Area/기술 강의/토스 개발자에게 배우는 MySQL/섹션7. 운영 레벨의 시스템 디자인 설계 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자바 대표 특징"
+              "title": "섹션7. 운영 레벨의 시스템 디자인 설계 방법"
             }
           },
           {
-            "id": "a5551317f28235ed",
+            "id": "a2a13d6cde2877d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Java Part 2 - OOP와 JVM/섹션 6.  JVM 기본 이론.md",
+                "file": "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "섹션 6.  JVM 기본 이론"
-            }
-          },
-          {
-            "id": "ce81c3ab096f2869",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DRAFT/CS 정석- 네트워크 .pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CS 정석- 네트워크"
+              "title": "3장 SQL 튜닝의 실행 계획 파헤치기"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.50390243530273
+    "width": 200
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DRAFT/CS 정석- 네트워크 .pdf",
+                "file": "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CS 정석- 네트워크"
+              "title": "Backlinks for 3장 SQL 튜닝의 실행 계획 파헤치기"
             }
           },
           {
@@ -140,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DRAFT/CS 정석- 네트워크 .pdf",
+                "file": "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CS 정석- 네트워크"
+              "title": "Outgoing links from 3장 SQL 튜닝의 실행 계획 파헤치기"
             }
           },
           {
@@ -169,20 +157,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DRAFT/CS 정석- 네트워크 .pdf",
+                "file": "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CS 정석- 네트워크"
+              "title": "Outline of 3장 SQL 튜닝의 실행 계획 파헤치기"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,53 +185,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce81c3ab096f2869",
+  "active": "b1bc95ad57e43f20",
   "lastOpenFiles": [
-    "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 대표 특징.md",
-    "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/1장 자바 기술 시스템 소개/자바 기술 시스템.md",
+    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기.md",
+    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/4장 악성 SQL 튜닝으로 초보자 탈출하기.md",
+    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/5장 악성 SQL 튜닝으로 전문가 되기.md",
+    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
+    "1-Project/오브젝트/01 객체, 설계.md",
+    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/클래스와 객체와 인스턴스의 차이 ⭐️⭐️⭐️.md",
+    "1-Project/오브젝트",
+    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/컴파일러와 인터프리터의 차이는?(with JIT) ⭐️.md",
+    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/추상화란 무엇인가? ⭐️⭐️⭐️.md",
+    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/오버로딩과 오버라이딩 ⭐️⭐️⭐️.md",
+    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/라이브러리 vs 프레임워크.md",
+    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/(특강)IT 대기업 100% 합격하는 방법.md",
+    "1-Project/나만의 요약/네트워크/TCP.md",
+    "1-Project/나만의 요약/네트워크/OSI 7계층과 TCP&IP 4계층.md",
+    "1-Project/나만의 요약/네트워크/공부 주제 후보.md",
+    "1-Project/나만의 요약/네트워크/IP 주소.md",
+    "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리/01 컴퓨터 및 정보기술의 역사.md",
     "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/프론트 컨트롤러.md",
     "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/스프링 부트 살펴보기.md",
     "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/@AutoConfiguartion.md",
-    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/Q. 로또번호 7개 셔플 시 어떤 자료구조를 쓰고 로직은 무엇?.md",
-    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/옵티마이저는 항상 옳지 않음.md",
-    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/왜 비동기로 처리하면 예외가 try-catch에 안걸리나?.md",
-    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/배열이 왜 CPU Cache에 유리한가?.md",
-    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/불편하다고 느끼는 것들.md",
-    "1-Project/BLOCKED_PROJECT/의문으로 시작하기/<주제> 외래키가 공유락을 건다?!.md",
-    "1-Project/BLOCKED_PROJECT/블록체인 기초 강의 수강/5. What is Blockchain?.md",
-    "1-Project/BLOCKED_PROJECT/그로킹 동시성/2.7 암달의 법칙.md",
-    "1-Project/BLOCKED_PROJECT/그로킹 동시성/01 동시성이란 무엇인가.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/중첩 서브쿼리.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/인라인 뷰.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/스칼라 서브쿼리.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/상관 서브쿼리.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/비상관 서브쿼리.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/단일행 서브쿼리.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/다중행 서브쿼리.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/용어/다중열 서브쿼리.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
-    "1-Project/업무에 바로 쓰는 SQL 튜닝/4장 악성 SQL 튜닝으로 초보자 탈출하기.md",
+    "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/3장 가비지 컬렉터와 메모리 할당 전략/3.1 들어가며.md",
+    "1-Project/코드 너머, 회사보다 오래 남을 개발자/ch01 성장 지옥에서 탈출할 비기, 소프트 스킬.md",
+    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요.md",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.4 신뢰적인 데이터 전송의 원리.md",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.2 다중화와 역다중화.md",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.3 비연결형 트랜스포트 - UDP.md",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.5 연결지향형 트랜스포트 - TCP.md",
+    "images/SCR-20250828-qutz.png",
+    "images/SCR-20250828-quqw.png",
+    "images/SCR-20250828-qunn.png",
+    "images/SCR-20250828-quiv.png",
+    "images/SCR-20250828-qudp.png",
+    "images/SCR-20250828-qubx.png",
+    "images/SCR-20250828-qtmw.png",
+    "images/SCR-20250828-qqub.png",
+    "images/SCR-20250828-qowj.png",
+    "images/SCR-20250828-lfzq.png",
+    "2-Area/코딩테스트/알고리즘",
+    "2-Area/코딩테스트",
+    "2-Area/기술 강의/토스 개발자에게 배우는 MySQL",
+    "1-Project/URL단축기",
+    "DRAFT/http완벽가이드_ocr.pdf",
+    "DRAFT/CS 정석- 네트워크.pdf",
     "DRAFT/사이드 프로젝트 후보",
-    "images/SCR-20250820-hkit.png",
-    "1-Project/Toss SLASH",
-    "DRAFT/CS 정석- 네트워크 .pdf",
-    "images/Pasted image 20250818075701.png",
-    "images/Pasted image 20250816195555.png",
-    "images/Pasted image 20250816172628.png",
-    "images/Pasted image 20250815225618.png",
-    "images/Pasted image 20250815224104.png",
-    "images/Pasted image 20250815221858.png",
-    "images/SCR-20250814-qutl.jpeg",
-    "images/SCR-20250814-qsrs.jpeg",
-    "images/SCR-20250814-lijl.jpeg",
-    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층",
-    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근",
-    "1-Project/나만의 요약/네트워크",
-    "1-Project/나만의 요약",
-    "CS - 네트워크 (2).pdf",
-    "DRAFT/사이드 프로젝트 후보/⭐️⭐️OpenMarketSystem",
-    "DRAFT/⭐️평생 코테 준비!"
+    "2-Area/기술 서적/Toss SLASH",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층"
   ]
 }
