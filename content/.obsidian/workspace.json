@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ef0d009b3e964f0",
+            "id": "151e5522a7d28d54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/기술 강의/토스 개발자에게 배우는 MySQL/섹션7. 운영 레벨의 시스템 디자인 설계 방법.md",
+                "file": "1-Project/URL단축기/계획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "섹션7. 운영 레벨의 시스템 디자인 설계 방법"
+              "title": "계획"
             }
           },
           {
-            "id": "a2a13d6cde2877d2",
+            "id": "79246546634041c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
+                "file": "2-Area/코딩테스트/solved/로봇 청소기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3장 SQL 튜닝의 실행 계획 파헤치기"
+              "title": "로봇 청소기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ROW_NUM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 301.5026054382324
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -109,8 +108,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
-                "collapseAll": false,
+                "file": "2-Area/코딩테스트/⭐️평생 코테 준비!/코딩테스트/DP/가장 긴 팰린드롬.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3장 SQL 튜닝의 실행 계획 파헤치기"
+              "title": "Backlinks for 가장 긴 팰린드롬"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
+                "file": "2-Area/코딩테스트/⭐️평생 코테 준비!/코딩테스트/DP/가장 긴 팰린드롬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3장 SQL 튜닝의 실행 계획 파헤치기"
+              "title": "Outgoing links from 가장 긴 팰린드롬"
             }
           },
           {
@@ -157,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
+                "file": "2-Area/ComputerScience/격리 수준(Isolation Level).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3장 SQL 튜닝의 실행 계획 파헤치기"
+              "title": "Outline of 격리 수준(Isolation Level)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -185,53 +186,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1bc95ad57e43f20",
+  "active": "151e5522a7d28d54",
   "lastOpenFiles": [
-    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/2장 SQL 튜닝 용어를 직관적으로 이해하기.md",
-    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/4장 악성 SQL 튜닝으로 초보자 탈출하기.md",
-    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/5장 악성 SQL 튜닝으로 전문가 되기.md",
-    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/3장 SQL 튜닝의 실행 계획 파헤치기.md",
-    "1-Project/오브젝트/01 객체, 설계.md",
-    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/클래스와 객체와 인스턴스의 차이 ⭐️⭐️⭐️.md",
-    "1-Project/오브젝트",
-    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/컴파일러와 인터프리터의 차이는?(with JIT) ⭐️.md",
-    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/추상화란 무엇인가? ⭐️⭐️⭐️.md",
-    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/오버로딩과 오버라이딩 ⭐️⭐️⭐️.md",
-    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/라이브러리 vs 프레임워크.md",
-    "1-Project/CS 지식의 정석/섹션 1. 개발자 필수지식/(특강)IT 대기업 100% 합격하는 방법.md",
-    "1-Project/나만의 요약/네트워크/TCP.md",
-    "1-Project/나만의 요약/네트워크/OSI 7계층과 TCP&IP 4계층.md",
-    "1-Project/나만의 요약/네트워크/공부 주제 후보.md",
-    "1-Project/나만의 요약/네트워크/IP 주소.md",
-    "1-Project/BLOCKED_PROJECT/운영체제와 정보기술의 원리/01 컴퓨터 및 정보기술의 역사.md",
-    "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/프론트 컨트롤러.md",
-    "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/스프링 부트 살펴보기.md",
-    "1-Project/BLOCKED_PROJECT/토비의 스프링 부트 - 이해와 원리/@AutoConfiguartion.md",
-    "1-Project/BLOCKED_PROJECT/JVM 밑바닥까지 파헤치기/3장 가비지 컬렉터와 메모리 할당 전략/3.1 들어가며.md",
+    "1-Project/URL단축기/현황.md",
+    "1-Project/URL단축기/계획.md",
+    "2-Area/코딩테스트/solved/Untitled 1.md",
+    "2-Area/코딩테스트/solved/유기농 배추.md",
+    "2-Area/코딩테스트/Untitled.base",
+    "2-Area/코딩테스트/solved/봉인된 주문.md",
+    "2-Area/기술 강의/Java Part 3(상) - 멀티스레드와 동기화/섹션 4. JVM과 스레드/2. JVM 객체 메모리 레이아웃과 Lock flag.md",
+    "1-Project/고민해볼거.md",
     "1-Project/코드 너머, 회사보다 오래 남을 개발자/ch01 성장 지옥에서 탈출할 비기, 소프트 스킬.md",
-    "2-Area/기술 서적/업무에 바로 쓰는 SQL 튜닝/1장 MySQL과 MariaDB 개요.md",
-    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.4 신뢰적인 데이터 전송의 원리.md",
-    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.2 다중화와 역다중화.md",
-    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.3 비연결형 트랜스포트 - UDP.md",
-    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.5 연결지향형 트랜스포트 - TCP.md",
-    "images/SCR-20250828-qutz.png",
-    "images/SCR-20250828-quqw.png",
-    "images/SCR-20250828-qunn.png",
-    "images/SCR-20250828-quiv.png",
-    "images/SCR-20250828-qudp.png",
-    "images/SCR-20250828-qubx.png",
-    "images/SCR-20250828-qtmw.png",
-    "images/SCR-20250828-qqub.png",
-    "images/SCR-20250828-qowj.png",
-    "images/SCR-20250828-lfzq.png",
-    "2-Area/코딩테스트/알고리즘",
-    "2-Area/코딩테스트",
-    "2-Area/기술 강의/토스 개발자에게 배우는 MySQL",
-    "1-Project/URL단축기",
-    "DRAFT/http완벽가이드_ocr.pdf",
+    "데이터뷰 테스트.md",
+    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/컴파일러와 인터프리터의 차이는?(with JIT) ⭐️.md",
+    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/웹 브라우저 캐시(로컬스토리지, 세션스토리지, 쿠키 공통점과 차이점).md",
+    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/오버로딩과 오버라이딩 ⭐️⭐️⭐️.md",
+    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/라이브러리 vs 프레임워크.md",
+    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/(특강)IT 대기업 100% 합격하는 방법.md",
+    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/API.md",
+    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/CI CD.md",
+    "2-Area/ComputerScience/격리 수준(Isolation Level) 정리.md",
+    "2-Area/DB/개념/Serializable.md",
+    "2-Area/DB/개념",
+    "2-Area/DB",
+    "2-Area/ComputerScience/가상 메모리 기법의 장점.md",
+    "2-Area/ComputerScience/백엔드에서 사용되는  DB 기본 개념을 설명. 중요한 기본 DB 용어들을 자세히 설명.md",
+    "2-Area/ComputerScience/Window Function 알차게 알아보자.md",
+    "3-Resource/Design Pattern/구조(Structural)/데코레이터.md",
+    "2-Area/코딩테스트/코테관련 주저리.md",
+    "2-Area/코딩테스트/DATAVIEW.md",
+    "2-Area/코딩테스트/자주 쓰이는 기법.md",
+    "2-Area/코딩테스트/n진법 변환.md",
     "DRAFT/CS 정석- 네트워크.pdf",
-    "DRAFT/사이드 프로젝트 후보",
-    "2-Area/기술 서적/Toss SLASH",
-    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층"
+    "2-Area/ComputerScience",
+    "images/SCR-20250908-hezk.png",
+    "2-Area/커리어/개발자 이력서",
+    "images/SCR-20250908-hdwp.png",
+    "2-Area/코딩테스트/DP 박살내기",
+    "images/SCR-20250903-hkqe.png",
+    "images/SCR-20250903-hhqq.png",
+    "images/SCR-20250829-sdck.jpeg",
+    "2-Area/코딩테스트/solved",
+    "images/SCR-20250829-huqu.png",
+    "images/SCR-20250829-hunb.png",
+    "images/SCR-20250829-huka.png",
+    "images/SCR-20250829-hufi.png",
+    "images/SCR-20250829-hucw.png",
+    "1-Project/오브젝트",
+    "2-Area/코딩테스트/템플릿화"
   ]
 }

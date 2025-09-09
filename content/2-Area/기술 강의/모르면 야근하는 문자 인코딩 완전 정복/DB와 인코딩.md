@@ -12,7 +12,7 @@ created: 2025-07-12
 	- CHAR, VARCHAR 형식은 utf8_general_ci 사용
 		- 대소문자 구분 안한다
 		- insensitive 민감 안하게처리한다란 뜻
-	- CI(Case Insensitive)
+	- **CI(Case Insensitive)**
 - utf8mb4
 	- 기존 utf8(최대 3바이트)와 달리 4바이트 (Mulit Byte)를 지원하므로 한글 문자 외에 이모지, 특수 문자, 한자 확작 영역 등 모든 유니 코드 문자 처리 가능
 	- 대소문자 구분 안함
