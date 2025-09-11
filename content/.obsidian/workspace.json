@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/solved/배열 정렬.md",
+                "file": "2-Area/코딩테스트/템플릿화/분리 집합(Union Find, Disjoint Set).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "배열 정렬"
+              "title": "분리 집합(Union Find, Disjoint Set)"
             }
           },
           {
@@ -203,33 +203,35 @@
   },
   "active": "79246546634041c5",
   "lastOpenFiles": [
-    "2-Area/코딩테스트/푼 문제 BASE.base",
-    "2-Area/계획/25년 계획.md",
-    "2-Area/코딩테스트/solved/체스판 다시 칠하기.md",
-    "2-Area/코딩테스트/solved/고층 건물.md",
     "2-Area/코딩테스트/템플릿화/2차원 배열에서 가장 많이 증가된 값의 개수.md",
     "2-Area/코딩테스트/템플릿화/다익스트라(Dijkstra).md",
+    "2-Area/코딩테스트/템플릿 한장화.md",
+    "2-Area/코딩테스트/템플릿화/백트래킹(기본, 순열, 조합, 부분집합).md",
+    "2-Area/코딩테스트/solved/(30804)투 포인터.md",
+    "2-Area/코딩테스트/solved/N으로 표현.md",
+    "2-Area/코딩테스트/푼 문제 BASE.base",
+    "2-Area/코딩테스트/solved/공항.md",
+    "2-Area/계획/25년 계획.md",
+    "2-Area/코딩테스트/solved/가르침.md",
+    "1-Project/Real MySQL 8.0/03 사용자 및 권한.md",
+    "2-Area/코딩테스트/solved/배열 정렬.md",
+    "1-Project/Real MySQL 8.0/02 설치와 설정.md",
+    "1-Project/Real MySQL 8.0/01 소개.md",
+    "1-Project/Real MySQL 8.0",
+    "2-Area/코딩테스트/solved/트리의 순회.md",
+    "2-Area/코딩테스트/solved/Untitled.md",
+    "2-Area/코딩테스트/solved/1의  개수 세기.md",
+    "2-Area/코딩테스트/solved/체스판 다시 칠하기.md",
+    "2-Area/코딩테스트/solved/고층 건물.md",
     "2-Area/코딩테스트/템플릿화/분리 집합(Union Find, Disjoint Set).md",
     "2-Area/코딩테스트/템플릿화/위상 정렬(Topology Sort).md",
     "2-Area/코딩테스트/템플릿화/n진법 변환.md",
     "2-Area/코딩테스트/템플릿화/이분탐색(LowerBound&UpperBound).md",
     "2-Area/코딩테스트/템플릿화/Binary Search.md",
-    "2-Area/코딩테스트/템플릿화/백트래킹(기본, 순열, 조합, 부분집합).md",
     "2-Area/코딩테스트/템플릿화/자주 쓰이는 기법.md",
     "2-Area/코딩테스트/템플릿화/외판원 알고리즘(TSP).md",
     "2-Area/코딩테스트/템플릿화/프림 알고리즘.md",
-    "2-Area/코딩테스트/템플릿화/크루스칼 알고리즘.md",
-    "2-Area/코딩테스트/템플릿화/차분 배열(with prefix sum).md",
-    "2-Area/코딩테스트/템플릿화/재배열 부등식.md",
-    "2-Area/코딩테스트/템플릿화/피보나치 공식.md",
-    "2-Area/코딩테스트/템플릿화/DP 풀이법 고찰.md",
     "2-Area/코딩테스트/공식",
-    "2-Area/코딩테스트/템플릿화/N으로 표현.md",
-    "2-Area/코딩테스트/solved/N으로 표현.md",
-    "2-Area/코딩테스트/solved/유기농 배추.md",
-    "2-Area/코딩테스트/solved/로봇 청소기.md",
-    "2-Area/코딩테스트/solved/가르침.md",
-    "2-Area/코딩테스트/solved/다각형의 면적.md",
     "DRAFT/CS 정석- 네트워크.pdf",
     "2-Area/DB/개념",
     "2-Area/DB",
@@ -246,7 +248,6 @@
     "images/SCR-20250829-hunb.png",
     "images/SCR-20250829-huka.png",
     "images/SCR-20250829-hufi.png",
-    "images/SCR-20250829-hucw.png",
-    "1-Project/오브젝트"
+    "images/SCR-20250829-hucw.png"
   ]
 }
