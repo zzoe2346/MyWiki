@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/URL단축기/사용 고려해볼 기술.md",
+                "file": "2-Area/코딩테스트/템플릿화/백트래킹(기본, 순열, 조합, 부분집합).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "사용 고려해볼 기술"
+              "title": "백트래킹(기본, 순열, 조합, 부분집합)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/solved/로봇 청소기.md",
+                "file": "2-Area/코딩테스트/solved/배열 정렬.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "로봇 청소기"
+              "title": "배열 정렬"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/커리어/Job Description.md",
+                "file": "2-Area/코딩테스트/solved/N으로 표현.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Job Description"
+              "title": "N으로 표현"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,36 +201,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fcb93b818624f297",
+  "active": "79246546634041c5",
   "lastOpenFiles": [
-    "DRAFT/개인적/JD 분석.md",
-    "2-Area/커리어/Job Description.md",
-    "DRAFT/개인적/회고들.md",
-    "1-Project/URL단축기/URL 단축기.md",
-    "1-Project/URL단축기/현황.md",
-    "1-Project/URL단축기/계획.md",
-    "1-Project/URL단축기/사용 고려해볼 기술.md",
-    "DRAFT/CS 정석- 네트워크.pdf",
-    "2-Area/코딩테스트/템플릿화/외판원 알고리즘(TSP).md",
-    "2-Area/코딩테스트/DP 풀이법 고찰.md",
-    "2-Area/코딩테스트/DATAVIEW.md",
     "2-Area/코딩테스트/푼 문제 BASE.base",
-    "2-Area/코딩테스트/solved/Untitled 1.md",
+    "2-Area/계획/25년 계획.md",
+    "2-Area/코딩테스트/solved/체스판 다시 칠하기.md",
+    "2-Area/코딩테스트/solved/고층 건물.md",
+    "2-Area/코딩테스트/템플릿화/2차원 배열에서 가장 많이 증가된 값의 개수.md",
+    "2-Area/코딩테스트/템플릿화/다익스트라(Dijkstra).md",
+    "2-Area/코딩테스트/템플릿화/분리 집합(Union Find, Disjoint Set).md",
+    "2-Area/코딩테스트/템플릿화/위상 정렬(Topology Sort).md",
+    "2-Area/코딩테스트/템플릿화/n진법 변환.md",
+    "2-Area/코딩테스트/템플릿화/이분탐색(LowerBound&UpperBound).md",
+    "2-Area/코딩테스트/템플릿화/Binary Search.md",
+    "2-Area/코딩테스트/템플릿화/백트래킹(기본, 순열, 조합, 부분집합).md",
+    "2-Area/코딩테스트/템플릿화/자주 쓰이는 기법.md",
+    "2-Area/코딩테스트/템플릿화/외판원 알고리즘(TSP).md",
+    "2-Area/코딩테스트/템플릿화/프림 알고리즘.md",
+    "2-Area/코딩테스트/템플릿화/크루스칼 알고리즘.md",
+    "2-Area/코딩테스트/템플릿화/차분 배열(with prefix sum).md",
+    "2-Area/코딩테스트/템플릿화/재배열 부등식.md",
+    "2-Area/코딩테스트/템플릿화/피보나치 공식.md",
+    "2-Area/코딩테스트/템플릿화/DP 풀이법 고찰.md",
+    "2-Area/코딩테스트/공식",
+    "2-Area/코딩테스트/템플릿화/N으로 표현.md",
+    "2-Area/코딩테스트/solved/N으로 표현.md",
     "2-Area/코딩테스트/solved/유기농 배추.md",
-    "2-Area/코딩테스트/solved/봉인된 주문.md",
-    "2-Area/기술 강의/Java Part 3(상) - 멀티스레드와 동기화/섹션 4. JVM과 스레드/2. JVM 객체 메모리 레이아웃과 Lock flag.md",
-    "1-Project/고민해볼거.md",
-    "1-Project/코드 너머, 회사보다 오래 남을 개발자/ch01 성장 지옥에서 탈출할 비기, 소프트 스킬.md",
-    "데이터뷰 테스트.md",
-    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/컴파일러와 인터프리터의 차이는?(with JIT) ⭐️.md",
-    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/웹 브라우저 캐시(로컬스토리지, 세션스토리지, 쿠키 공통점과 차이점).md",
-    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/오버로딩과 오버라이딩 ⭐️⭐️⭐️.md",
-    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/라이브러리 vs 프레임워크.md",
-    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/(특강)IT 대기업 100% 합격하는 방법.md",
-    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/API.md",
-    "2-Area/기술 강의/CS 지식의 정석/섹션 1. 개발자 필수지식/CI CD.md",
-    "2-Area/ComputerScience/격리 수준(Isolation Level) 정리.md",
-    "2-Area/DB/개념/Serializable.md",
+    "2-Area/코딩테스트/solved/로봇 청소기.md",
+    "2-Area/코딩테스트/solved/가르침.md",
+    "2-Area/코딩테스트/solved/다각형의 면적.md",
+    "DRAFT/CS 정석- 네트워크.pdf",
     "2-Area/DB/개념",
     "2-Area/DB",
     "2-Area/ComputerScience",
@@ -247,7 +247,6 @@
     "images/SCR-20250829-huka.png",
     "images/SCR-20250829-hufi.png",
     "images/SCR-20250829-hucw.png",
-    "1-Project/오브젝트",
-    "2-Area/코딩테스트/템플릿화"
+    "1-Project/오브젝트"
   ]
 }

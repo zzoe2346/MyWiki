@@ -9,10 +9,13 @@ views:
       - 레이팅
       - 반복수
       - 복습
+      - 중요성
+      - reviewed
       - created
-      - tags
+      - 메모
+      - file.tags
     sort:
+      - property: file.tags
+        direction: DESC
       - property: tags
         direction: ASC
-      - property: file.name
-        direction: DESC
