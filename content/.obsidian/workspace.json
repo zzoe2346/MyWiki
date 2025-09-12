@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/템플릿화/백트래킹(기본, 순열, 조합, 부분집합).md",
+                "file": "2-Area/코딩테스트/solved/과일 탕후루.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "백트래킹(기본, 순열, 조합, 부분집합)"
+              "title": "과일 탕후루"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/템플릿화/분리 집합(Union Find, Disjoint Set).md",
+                "file": "1-Project/Real MySQL 8.0/04 아키텍처.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "분리 집합(Union Find, Disjoint Set)"
+              "title": "04 아키텍처"
             }
           },
           {
@@ -41,16 +41,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/solved/N으로 표현.md",
+                "file": "2-Area/코딩테스트/solved/최단경로.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N으로 표현"
+              "title": "최단경로"
+            }
+          },
+          {
+            "id": "80e17bbf844b71a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Area/코딩테스트/solved/가장 긴 팰린드롬.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "가장 긴 팰린드롬"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5026054382324
+    "width": 200
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -171,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Area/ComputerScience/격리 수준(Isolation Level).md",
+                "file": "2-Area/코딩테스트/solved/가장 긴 팰린드롬.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 격리 수준(Isolation Level)"
+              "title": "Outline of 가장 긴 팰린드롬"
             }
           }
         ],
@@ -201,36 +214,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79246546634041c5",
+  "active": "151e5522a7d28d54",
   "lastOpenFiles": [
-    "2-Area/코딩테스트/템플릿화/2차원 배열에서 가장 많이 증가된 값의 개수.md",
-    "2-Area/코딩테스트/템플릿화/다익스트라(Dijkstra).md",
-    "2-Area/코딩테스트/템플릿 한장화.md",
-    "2-Area/코딩테스트/템플릿화/백트래킹(기본, 순열, 조합, 부분집합).md",
-    "2-Area/코딩테스트/solved/(30804)투 포인터.md",
-    "2-Area/코딩테스트/solved/N으로 표현.md",
     "2-Area/코딩테스트/푼 문제 BASE.base",
-    "2-Area/코딩테스트/solved/공항.md",
-    "2-Area/계획/25년 계획.md",
-    "2-Area/코딩테스트/solved/가르침.md",
-    "1-Project/Real MySQL 8.0/03 사용자 및 권한.md",
-    "2-Area/코딩테스트/solved/배열 정렬.md",
-    "1-Project/Real MySQL 8.0/02 설치와 설정.md",
-    "1-Project/Real MySQL 8.0/01 소개.md",
+    "2-Area/코딩테스트/solved/(카카오)파괴되지 않은 건물.md",
+    "2-Area/코딩테스트/solved/(카카오)사라지는 발판.md",
+    "2-Area/코딩테스트/solved/(카카오)두 큐 합 같게 만들기.md",
+    "2-Area/코딩테스트/solved/(카카오)코딩 테스트 공부.md",
+    "2-Area/코딩테스트/solved/(카카오)등산 코스 정하기.md",
+    "2-Area/코딩테스트/solved/(카카오)미로 탈출 명령어.md",
+    "2-Area/코딩테스트/solved/(카카오)표 병합.md",
+    "2-Area/코딩테스트/solved/(카카오)표현 가능한 이진트리.md",
+    "2-Area/코딩테스트/solved/(카카오)이모티콘 할인행사.md",
+    "2-Area/코딩테스트/solved/(카카오)택배 배달과 수거하기.md",
+    "2-Area/코딩테스트/solved/(카카오)산 모양 타일링.md",
+    "2-Area/코딩테스트/solved/(카카오)n + 1 카드게임.md",
+    "2-Area/코딩테스트/solved/(카카오)주사위 고르기.md",
+    "2-Area/코딩테스트/solved/(카카오)도넛과 막대 그래프.md",
+    "2-Area/코딩테스트/solved/토마토.md",
+    "2-Area/코딩테스트/solved/덩치.md",
+    "2-Area/코딩테스트/solved/나이트의 이동.md",
+    "2-Area/코딩테스트/solved/0 만들기.md",
+    "2-Area/코딩테스트/solved/합이 0인 네 정수!.md",
+    "2-Area/코딩테스트/solved/로또.md",
+    "2-Area/코딩테스트/solved/상범 빌딩.md",
+    "2-Area/코딩테스트/solved/옥상 정원 꾸미기.md",
+    "2-Area/코딩테스트/solved/레이저 통신.md",
+    "2-Area/코딩테스트/solved/카잉 달력.md",
+    "2-Area/코딩테스트/solved/택배 배송.md",
+    "1-Project/Real MySQL 8.0/04 아키텍처",
     "1-Project/Real MySQL 8.0",
-    "2-Area/코딩테스트/solved/트리의 순회.md",
-    "2-Area/코딩테스트/solved/Untitled.md",
-    "2-Area/코딩테스트/solved/1의  개수 세기.md",
-    "2-Area/코딩테스트/solved/체스판 다시 칠하기.md",
-    "2-Area/코딩테스트/solved/고층 건물.md",
-    "2-Area/코딩테스트/템플릿화/분리 집합(Union Find, Disjoint Set).md",
-    "2-Area/코딩테스트/템플릿화/위상 정렬(Topology Sort).md",
-    "2-Area/코딩테스트/템플릿화/n진법 변환.md",
-    "2-Area/코딩테스트/템플릿화/이분탐색(LowerBound&UpperBound).md",
-    "2-Area/코딩테스트/템플릿화/Binary Search.md",
-    "2-Area/코딩테스트/템플릿화/자주 쓰이는 기법.md",
-    "2-Area/코딩테스트/템플릿화/외판원 알고리즘(TSP).md",
-    "2-Area/코딩테스트/템플릿화/프림 알고리즘.md",
     "2-Area/코딩테스트/공식",
     "DRAFT/CS 정석- 네트워크.pdf",
     "2-Area/DB/개념",
@@ -243,7 +256,6 @@
     "images/SCR-20250903-hkqe.png",
     "images/SCR-20250903-hhqq.png",
     "images/SCR-20250829-sdck.jpeg",
-    "2-Area/코딩테스트/solved",
     "images/SCR-20250829-huqu.png",
     "images/SCR-20250829-hunb.png",
     "images/SCR-20250829-huka.png",

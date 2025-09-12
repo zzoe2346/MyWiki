@@ -1,0 +1,15 @@
+---
+tags:
+  - 그래프이론
+  - 그래프탐색
+  - 깊이우선탐색
+  - 너비우선탐색
+created: 2025-09-12
+reviewed:
+URL: https://www.acmicpc.net/problem/1260
+반복수: "0"
+복습:
+중요성:
+레이팅:
+메모:
+---

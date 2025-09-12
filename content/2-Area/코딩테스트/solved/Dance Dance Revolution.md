@@ -1,6 +1,6 @@
 ---
 tags:
-  - DP
+  - 다이나믹
 created: 2025-09-08
 URL: https://www.acmicpc.net/problem/2342
 반복수: "1"

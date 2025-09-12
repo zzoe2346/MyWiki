@@ -1,6 +1,6 @@
 ---
 tags:
-  - DP
+  - 다이나믹
 created: 2025-09-11
 reviewed:
 URL: https://programmers.co.kr/learn/courses/30/lessons/42895
