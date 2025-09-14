@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "2-Area/코딩테스트/solved"
+        - file.name.contains("(카카오)")
+    order:
+      - file.name
+      - 레이팅
+      - 반복수
+      - 복습
+      - 중요성
+      - reviewed
+      - created
+      - 메모
+      - file.tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: DESC
+      - property: 복습
+        direction: ASC
+      - property: tags
+        direction: ASC

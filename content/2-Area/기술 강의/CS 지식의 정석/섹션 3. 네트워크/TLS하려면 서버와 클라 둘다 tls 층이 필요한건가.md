@@ -1,7 +1,8 @@
 ---
 created: 2025-06-26
 tags:
-  - cs/network/concept
+  - TLS
+  - 네트워크
 ---
 네, 정확히 맞습니다. **TLS 통신을 위해서는 서버와 클라이언트 양쪽 모두에 TLS 계층(Layer)이 필요합니다.**
 

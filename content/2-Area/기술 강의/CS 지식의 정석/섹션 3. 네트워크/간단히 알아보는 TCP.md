@@ -1,7 +1,7 @@
 ---
 created: 2025-07-03
 tags:
-  - cs/network/term
+  - 네트워크
 ---
 - TCP에만 연결(Coneection, Sessino)개념 존재
 - 연결은 결과적으로 순서번호로 구현

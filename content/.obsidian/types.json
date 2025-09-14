@@ -7,6 +7,7 @@
     "난이도": "text",
     "복습": "checkbox",
     "중요성": "checkbox",
-    "reviewed": "date"
+    "reviewed": "date",
+    "풀이상태": "multitext"
   }
 }

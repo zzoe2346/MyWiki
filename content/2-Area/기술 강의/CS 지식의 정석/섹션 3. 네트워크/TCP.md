@@ -1,7 +1,8 @@
 ---
 created: 2025-05-16
 tags:
-  - cs/network/term
+  - 네트워크
+  - TCP
 ---
 - 세그먼트
 - 가상회선패킷교환방식

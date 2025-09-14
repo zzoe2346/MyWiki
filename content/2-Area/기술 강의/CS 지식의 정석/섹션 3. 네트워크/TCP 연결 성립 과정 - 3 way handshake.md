@@ -1,7 +1,8 @@
 ---
 created: 2025-06-11
 tags:
-  - cs/network/concept
+  - TCP
+  - 네트워크
 ---
 1. SYN: 클라이언트는 서버에 클라이언트의 ISN 담아 SYN 보냄
 2. SYN + ACK: 서버는 클라이언트의 SYN 수신하고 서버의 ISN 을 보내며 승인번호로 클라이언트의 ISN + 1 보냄

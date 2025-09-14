@@ -1,7 +1,8 @@
 ---
 created: 2025-06-13
 tags:
-  - cs/network/concept
+  - 네트워크
+  - TLS
 ---
 > 어렵고 고급지식
 > https://www.inflearn.com/courses/lecture?courseId=328823&type=LECTURE&unitId=129789&subtitleLanguage=ko&tab=curriculum

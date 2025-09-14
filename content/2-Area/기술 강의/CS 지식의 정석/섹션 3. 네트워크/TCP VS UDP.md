@@ -1,7 +1,9 @@
 ---
 created: 2025-05-16
 tags:
-  - cs/network/application
+  - 네트워크
+  - TCP
+  - UDP
 ---
 [[2-Area/기술 강의/CS 지식의 정석/섹션 3. 네트워크/TCP]], [[UDP]]
 
