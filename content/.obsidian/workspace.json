@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/solved/(카카오)문자열 압축(문제8).md",
+                "file": "2-Area/코딩테스트/solved/(카카오)숫자 문자열과 영단어(문제12).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(카카오)문자열 압축(문제8)"
+              "title": "(카카오)숫자 문자열과 영단어(문제12)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/solved/행렬의 곱셈.md",
+                "file": "2-Area/코딩테스트/solved/행렬의 곱셈(문제4).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "행렬의 곱셈"
+              "title": "행렬의 곱셈(문제4)"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/solved/교점에 별 만들기.md",
+                "file": "2-Area/코딩테스트/solved/교점에 별 만들기(문제1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "교점에 별 만들기"
+              "title": "교점에 별 만들기(문제1)"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/코딩테스트/solved/(카카오)문자열 압축(문제8).md",
+                "file": "2-Area/코딩테스트/solved/(카카오)숫자 문자열과 영단어(문제12).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (카카오)문자열 압축(문제8)"
+              "title": "Backlinks for (카카오)숫자 문자열과 영단어(문제12)"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/코딩테스트/solved/(카카오)문자열 압축(문제8).md",
+                "file": "2-Area/코딩테스트/solved/(카카오)숫자 문자열과 영단어(문제12).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (카카오)문자열 압축(문제8)"
+              "title": "Outgoing links from (카카오)숫자 문자열과 영단어(문제12)"
             }
           },
           {
@@ -216,17 +216,28 @@
   },
   "active": "ea18c15e779123df",
   "lastOpenFiles": [
+    "2-Area/코딩테스트/solved/행렬의 곱셈(문제4).md",
+    "2-Area/코딩테스트/solved/(카카오)숫자 문자열과 영단어(문제12).md",
+    "2-Area/코딩테스트/solved/(카카오)괄호 변환.md",
+    "2-Area/코딩테스트/solved/Untitled.md",
+    "2-Area/코딩테스트/solved/문자열 p와 y의 개수(문제11).md",
+    "2-Area/코딩테스트/solved/(카카오)1,2,3 떨어트리기.md",
+    "2-Area/코딩테스트/템플릿화/다익스트라(Dijkstra).md",
+    "2-Area/코딩테스트/템플릿화/0-1 BFS.md",
+    "2-Area/코딩테스트/Untitled.base",
+    "2-Area/코딩테스트/solved/시저 암호(문제6).md",
+    "2-Area/코딩테스트/solved/삼각 달팽이(문제2).md",
+    "2-Area/코딩테스트/solved/교점에 별 만들기(문제1).md",
+    "2-Area/코딩테스트/solved/(카카오)거리두기 확인하기(문제3).md",
+    "2-Area/코딩테스트/카카오 재풀이 BASE.base",
+    "2-Area/코딩테스트/solved/이진 변환 반복하기(문제10).md",
+    "2-Area/코딩테스트/solved/3진법 뒤집기(문제9).md",
+    "2-Area/코딩테스트/solved/(카카오)문자열 압축(문제8).md",
     "2-Area/코딩테스트/solved/문자열 압축(문제8).md",
     "2-Area/코딩테스트/solved/이상한 문자 만들기(문제7).md",
     "2-Area/코딩테스트/solved/자연수 뒤집어 배열로 만들기(문제5).md",
-    "2-Area/코딩테스트/solved/(카카오)1,2,3 떨어트리기.md",
     "2-Area/코딩테스트/재풀이 BASE.base",
     "2-Area/코딩테스트/solved/거울 설치.md",
-    "2-Area/코딩테스트/solved/교점에 별 만들기.md",
-    "2-Area/코딩테스트/solved/(카카오)거리두기 확인하기.md",
-    "2-Area/코딩테스트/solved/삼각 달팽이.md",
-    "2-Area/코딩테스트/solved/행렬의 곱셈.md",
-    "2-Area/코딩테스트/solved/시저 암호.md",
     "2-Area/코딩테스트/solved/(카카오)가장 많이 받은 선물.md",
     "2-Area/코딩테스트/solved/(카카오)가사 검색.md",
     "2-Area/코딩테스트/solved/녹색 옷 입은 애가 젤다지?.md",
@@ -234,19 +245,7 @@
     "2-Area/코딩테스트/solved/나이트의 이동.md",
     "2-Area/코딩테스트/solved/122. Best Time to Buy and Sell Stock II.md",
     "1-Project/코테책/CH01.md",
-    "1-Project/코테책/CH02 시간 복잡도.md",
     "1-Project/코테책",
-    "2-Area/코딩테스트/카카오 재풀이 BASE.base",
-    "2-Area/코딩테스트/카카오 재풀이 BASE.base",
-    "2-Area/코딩테스트/Untitled.base",
-    "2-Area/코딩테스트/solved/토마토'.md",
-    "2-Area/코딩테스트/solved/토마토.md",
-    "2-Area/코딩테스트/solved/경로 찾기.md",
-    "2-Area/코딩테스트/solved/서강그라운드.md",
-    "2-Area/코딩테스트/solved/레이저 통신.md",
-    "2-Area/코딩테스트/solved/피보나치 수 3.md",
-    "2-Area/코딩테스트/solved/피보나치 수 3~.md",
-    "2-Area/코딩테스트/solved/알고스팟.md",
     "DRAFT/CS 정석- 네트워크.pdf",
     "Untitled.base",
     "1-Project/Real MySQL 8.0/04 아키텍처",
