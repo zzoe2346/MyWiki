@@ -1,0 +1,35 @@
+---
+tags:
+  - 취이코전
+  - 해시를쓴집합과맵
+  - A
+created: 2025-09-20
+reviewed:
+URL: https://school.programmers.co.kr/learn/courses/30/lessons/120886
+반복수: "0"
+복습:
+중요성:
+레이팅: Lv. 0
+메모:
+---
+```
+import java.util.*;
+class Solution {
+    public int solution(String before, String after) {
+        char[] beforeArray = before.toCharArray();
+        char[] afterArray = after.toCharArray();
+        Arrays.sort(beforeArray);
+        Arrays.sort(afterArray);
+        for(int i=0 ; i<before.length() ; i++){
+            if(beforeArray[i] != afterArray[i]){
+                return 0;
+            }
+        }
+        return 1;
+    }
+}
+
+```
+
+```
+```

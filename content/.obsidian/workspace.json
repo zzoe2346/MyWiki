@@ -4,63 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "af6ce7cb3a3d02b6",
+        "id": "6691de0a6b7642bf",
         "type": "tabs",
         "children": [
           {
-            "id": "ea18c15e779123df",
+            "id": "eba2811e66dd7e4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/solved/(카카오)숫자 문자열과 영단어(문제12).md",
+                "file": "2-Area/코딩테스트/solved/주식 가격(문제44).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(카카오)숫자 문자열과 영단어(문제12)"
+              "title": "주식 가격(문제44)"
             }
           },
           {
-            "id": "457cfbda46e77ac8",
+            "id": "8db0cbb0683c4669",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/코딩테스트/solved/행렬의 곱셈(문제4).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "행렬의 곱셈(문제4)"
-            }
-          },
-          {
-            "id": "0ab933cbf7a7fb35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/코딩테스트/solved/122. Best Time to Buy and Sell Stock II.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "122. Best Time to Buy and Sell Stock II"
-            }
-          },
-          {
-            "id": "012f43ce7853b989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/코딩테스트/solved/교점에 별 만들기(문제1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "교점에 별 만들기(문제1)"
+              "title": "New tab"
             }
           }
         ]
@@ -95,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:취이코전",
+                "query": "정수 삼",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,11 +84,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5024719238281
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -136,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Area/코딩테스트/solved/(카카오)숫자 문자열과 영단어(문제12).md",
+                "file": "2-Area/코딩테스트/solved/입국심사 (문제31).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (카카오)숫자 문자열과 영단어(문제12)"
+              "title": "Backlinks for 입국심사 (문제31)"
             }
           },
           {
@@ -155,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Area/코딩테스트/solved/(카카오)숫자 문자열과 영단어(문제12).md",
+                "file": "2-Area/코딩테스트/solved/입국심사 (문제31).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (카카오)숫자 문자열과 영단어(문제12)"
+              "title": "Outgoing links from 입국심사 (문제31)"
             }
           },
           {
@@ -214,37 +183,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ea18c15e779123df",
+  "active": "eba2811e66dd7e4b",
   "lastOpenFiles": [
-    "2-Area/코딩테스트/solved/행렬의 곱셈(문제4).md",
-    "2-Area/코딩테스트/solved/(카카오)숫자 문자열과 영단어(문제12).md",
-    "2-Area/코딩테스트/solved/(카카오)괄호 변환.md",
-    "2-Area/코딩테스트/solved/Untitled.md",
-    "2-Area/코딩테스트/solved/문자열 p와 y의 개수(문제11).md",
-    "2-Area/코딩테스트/solved/(카카오)1,2,3 떨어트리기.md",
-    "2-Area/코딩테스트/템플릿화/다익스트라(Dijkstra).md",
-    "2-Area/코딩테스트/템플릿화/0-1 BFS.md",
-    "2-Area/코딩테스트/Untitled.base",
-    "2-Area/코딩테스트/solved/시저 암호(문제6).md",
-    "2-Area/코딩테스트/solved/삼각 달팽이(문제2).md",
-    "2-Area/코딩테스트/solved/교점에 별 만들기(문제1).md",
-    "2-Area/코딩테스트/solved/(카카오)거리두기 확인하기(문제3).md",
-    "2-Area/코딩테스트/카카오 재풀이 BASE.base",
-    "2-Area/코딩테스트/solved/이진 변환 반복하기(문제10).md",
-    "2-Area/코딩테스트/solved/3진법 뒤집기(문제9).md",
-    "2-Area/코딩테스트/solved/(카카오)문자열 압축(문제8).md",
-    "2-Area/코딩테스트/solved/문자열 압축(문제8).md",
-    "2-Area/코딩테스트/solved/이상한 문자 만들기(문제7).md",
-    "2-Area/코딩테스트/solved/자연수 뒤집어 배열로 만들기(문제5).md",
-    "2-Area/코딩테스트/재풀이 BASE.base",
-    "2-Area/코딩테스트/solved/거울 설치.md",
-    "2-Area/코딩테스트/solved/(카카오)가장 많이 받은 선물.md",
-    "2-Area/코딩테스트/solved/(카카오)가사 검색.md",
-    "2-Area/코딩테스트/solved/녹색 옷 입은 애가 젤다지?.md",
-    "1-Project/코테책/CH03 배열.md",
-    "2-Area/코딩테스트/solved/나이트의 이동.md",
+    "2-Area/코딩테스트/solved/괄호 회전하기(문제43).md",
+    "2-Area/코딩테스트/solved/주식 가격(문제44).md",
+    "2-Area/코딩테스트/solved/Untitled 2.md",
+    "2-Area/코딩테스트/solved/올바른 괄호(문제42).md",
+    "2-Area/코딩테스트/solved/정수 삼각형'(문제39).md",
+    "2-Area/코딩테스트/solved/정수 삼각형.md",
+    "2-Area/코딩테스트/solved/Untitled 1.md",
+    "2-Area/코딩테스트/solved/피보나치 수(문제38).md",
+    "2-Area/코딩테스트/solved/완주하지 못한 선수(문제37).md",
+    "2-Area/코딩테스트/solved/없는 숫자 더하기(문제36).md",
+    "2-Area/코딩테스트/solved/A로 B만들기.md",
+    "2-Area/코딩테스트/solved/중복된 문자 제거(문제34).md",
+    "2-Area/코딩테스트/solved/전화번호 목록'.md",
+    "2-Area/코딩테스트/solved/전화번호 목록.md",
+    "2-Area/코딩테스트/solved/징검다리(문제32).md",
+    "2-Area/코딩테스트/solved/입국심사 (문제31).md",
+    "2-Area/계획/25년 계획.md",
     "2-Area/코딩테스트/solved/122. Best Time to Buy and Sell Stock II.md",
-    "1-Project/코테책/CH01.md",
+    "2-Area/코딩테스트/solved/행렬의 곱셈(문제4).md",
+    "2-Area/코딩테스트/템플릿화/이분탐색(LowerBound&UpperBound).md",
+    "2-Area/코딩테스트/solved/(카카오)순위 검색(문제 30).md",
+    "2-Area/코딩테스트/solved/교점에 별 만들기(문제1).md",
+    "2-Area/코딩테스트/템플릿화/외판원 알고리즘(TSP).md",
+    "2-Area/코딩테스트/템플릿화/다익스트라(Dijkstra).md",
+    "2-Area/코딩테스트/템플릿화/백트래킹(기본, 순열, 조합, 부분집합).md",
+    "2-Area/코딩테스트/템플릿화/분리 집합(Union Find, Disjoint Set).md",
+    "2-Area/코딩테스트/Untitled.base",
+    "2-Area/코딩테스트/카카오 재풀이 BASE.base",
+    "2-Area/코딩테스트/재풀이 BASE.base",
     "1-Project/코테책",
     "DRAFT/CS 정석- 네트워크.pdf",
     "Untitled.base",
