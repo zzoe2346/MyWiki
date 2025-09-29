@@ -9,6 +9,6 @@ URL: https://www.acmicpc.net/problem/12919
 반복수: "0"
 복습:
 중요성:
-레이팅:
+레이팅: 골드5
 메모:
 ---

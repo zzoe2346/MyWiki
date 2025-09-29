@@ -1,0 +1,29 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "2-Area/코딩테스트/solved"
+        - '!file.tags.contains("다이나믹")'
+        - file.tags.contains("문자열")
+    order:
+      - file.name
+      - 레이팅
+      - 반복수
+      - 복습
+      - 중요성
+      - reviewed
+      - created
+      - 메모
+      - file.tags
+    sort:
+      - property: reviewed
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: file.tags
+        direction: DESC
+      - property: 복습
+        direction: ASC
+      - property: tags
+        direction: ASC

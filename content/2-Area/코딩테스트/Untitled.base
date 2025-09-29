@@ -4,13 +4,11 @@ views:
     filters:
       and:
         - file.folder == "2-Area/코딩테스트/solved"
-        - file.tags.contains("취이코전")
     order:
       - file.name
       - 레이팅
       - created
       - file.tags
-      - tags
     sort:
       - property: created
         direction: DESC

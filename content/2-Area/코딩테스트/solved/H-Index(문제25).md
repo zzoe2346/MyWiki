@@ -2,6 +2,7 @@
 tags:
   - 취이코전
   - 정렬
+  - 취이코전/25
 created: 2025-09-18
 reviewed:
 URL: https://school.programmers.co.kr/learn/courses/30/lessons/42747

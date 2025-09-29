@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
 created: 2025-08-19
 ---
 https://youtu.be/ApNj9MZU7Ak?si=osjA00UDX2UBz8IR

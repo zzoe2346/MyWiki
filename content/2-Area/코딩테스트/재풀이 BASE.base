@@ -5,7 +5,6 @@ views:
       and:
         - file.folder == "2-Area/코딩테스트/solved"
         - '!file.tags.contains("다이나믹")'
-        - file.tags.contains("최단경로")
     order:
       - file.name
       - 레이팅

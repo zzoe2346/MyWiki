@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - network/TCP
 created: 2025-08-10
 ---
 ## TCP 기초
