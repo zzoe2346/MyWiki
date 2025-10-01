@@ -2,7 +2,7 @@
 tags: 
 created: 2025-07-25
 ---
-오라클, MySQL 같은 DBMS는 데이터가  변경되면 그 변경 내용을 통지하는 기능을 제공함. [[2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까/CDC]](Change Data Capture) 패턴은 이 기능을 활용해서 구현.
+오라클, MySQL 같은 DBMS는 데이터가  변경되면 그 변경 내용을 통지하는 기능을 제공함. [[비동기 처리 기법 - CDC(change data capture)]](Change Data Capture) 패턴은 이 기능을 활용해서 구현.
 ```mermaid
 sequenceDiagram
 	Note over DB: 1. 데이터 변경

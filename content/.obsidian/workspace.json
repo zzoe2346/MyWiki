@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/4장 외부 연동이 문제일 때 살펴봐야 할 것들/재시도 - 외부 연동 실패시 방법 중 하나.md",
+                "file": "2-Area/코딩테스트/solved/영단어 암기는 괴로워.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "재시도 - 외부 연동 실패시 방법 중 하나"
-            }
-          },
-          {
-            "id": "2a0008327846be5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Area/코딩테스트/주말에 다시 풀문제/다시풀기모음!!!⭐️.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "다시풀기모음!!!⭐️"
+              "title": "영단어 암기는 괴로워"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/코딩테스트/solved/Slice String.md",
+                "file": "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.2 다중화와 역다중화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slice String"
+              "title": "3.2 다중화와 역다중화"
             }
           },
           {
@@ -55,15 +41,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/3장 성능을 좌우하는 DB 설계와 쿼리/인덱스 없이 조회 성능을 올리는 방법.md",
+                "file": "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/프로세스 수준에서의 동시 접근 제어.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "인덱스 없이 조회 성능을 올리는 방법"
+              "title": "프로세스 수준에서의 동시 접근 제어"
+            }
+          },
+          {
+            "id": "f7fb08a1e132ae3b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-10-01 19.38.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-01 19.38.48.excalidraw"
+            }
+          },
+          {
+            "id": "037bec051c8dfa68",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "2-Area/코딩테스트/다이나믹 제외.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "다이나믹 제외"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:IP-4-Layer",
+                "query": "tag:#network/UDP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "dc4771f2ddfc1818",
@@ -172,7 +185,7 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "구현"
+                "searchQuery": "network udp"
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -214,36 +227,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb31063b4ca88c3c",
+  "active": "c950e0a29357c728",
   "lastOpenFiles": [
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/4장 외부 연동이 문제일 때 살펴봐야 할 것들/타임아웃 - 외부 연동에서 가장 중요한 설정.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/4장 외부 연동이 문제일 때 살펴봐야 할 것들/재시도 - 외부 연동 실패시 방법 중 하나.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/4장 외부 연동이 문제일 때 살펴봐야 할 것들/외부 시스템 연동 주의점.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/3장 성능을 좌우하는 DB 설계와 쿼리/알아두면 좋을 몇 가지 주의 사항.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/3장 성능을 좌우하는 DB 설계와 쿼리/실패와 트랜잭션 고려하기.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/3장 성능을 좌우하는 DB 설계와 쿼리/인덱스 없이 조회 성능을 올리는 방법.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/3장 성능을 좌우하는 DB 설계와 쿼리/정규화가 꼭 좋은건가?.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/3장 성능을 좌우하는 DB 설계와 쿼리/Untitled 1.md",
-    "2-Area/코딩테스트/재풀이 BASE.base",
-    "2-Area/코딩테스트/solved/보류/(카카오)4단 고음.md",
+    "images/SCR-20251002-hwvs.png",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/DB와 동시성.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/synchronized와 ReentrantLock.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/Untitled.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/동시성 지원 컬렉션.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/6장 동시성, 데이터가 꼬이지 전에 잡아야 한다/단일 스레드로 처리하기.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까/비동기 도입에 대한 고려.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까/비동기 기법 - 트랜잭션 아웃박스 패턴.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까/비동기 기법 - 메시징.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까/비동기 처리 기법 - CDC(change data capture).md",
+    "images/SCR-20251001-rdab.png",
+    "Excalidraw/Drawing 2025-10-01 19.38.48.excalidraw.md",
+    "Excalidraw",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까/비동기 기법 - 배치 전송.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까/비동기 연동 방법-CDC 패턴.md",
+    "2-Area/코딩테스트/solved/영단어 암기는 괴로워.md",
     "2-Area/코딩테스트/다이나믹 제외.base",
-    "2-Area/코딩테스트/solved/문자열 집합.md",
-    "2-Area/코딩테스트/주말에 다시 풀문제/다시풀기모음!!!⭐️.md",
-    "2-Area/코딩테스트/solved/불필요/그룹 단어 체커.md",
-    "2-Area/코딩테스트/solved/IOIOI.md",
-    "2-Area/코딩테스트/solved/베스트셀러.md",
-    "2-Area/코딩테스트/solved/A와 B.md",
-    "2-Area/코딩테스트/solved/LCD Test.md",
-    "2-Area/코딩테스트/solved/Slice String.md",
-    "2-Area/코딩테스트/solved/전화번호 목록.md",
-    "2-Area/코딩테스트/solved/불필요/단어 정렬.md",
-    "2-Area/코딩테스트/solved/단축키 지정.md",
-    "2-Area/코딩테스트/solved/뒤집기.md",
-    "2-Area/코딩테스트/solved/불필요/듣보잡.md",
-    "2-Area/코딩테스트/solved/문자열 다루기 기본(문제13).md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/2장 느려진 서비스, 어디부터 봐야 할까/가비지 컬렉터와 메모리 관련성.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/메시징 시스템을 도입하는 이유.md",
-    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/무작정 서버를 늘리는게 능사가 아니다.md",
+    "2-Area/코딩테스트/재풀이 BASE.base",
+    "2-Area/코딩테스트/solved/수 이어 쓰기.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/5장 비동기 연동, 언제 어떻게 써야 할까/비동기 기법 - 멀티 스레드.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/3장 성능을 좌우하는 DB 설계와 쿼리/인덱스 없이 조회 성능을 올리는 방법.md",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.2 다중화와 역다중화.md",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.3 비연결형 트랜스포트 - UDP.md",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.4 신뢰적인 데이터 전송의 원리.md",
+    "2-Area/기술 서적/컴퓨터 네트워킹 하향식 접근/ch03 트랜스포트 계층/3.1 트랜스포트 계층 서비스 및 개요.md",
+    "1-Project/코드 너머, 회사보다 오래 남을 개발자/ch01 성장 지옥에서 탈출할 비기, 소프트 스킬.md",
+    "1-Project/나만의 요약/네트워크/TCP.md",
+    "1-Project/Real MySQL 8.0/04 아키텍처.md",
+    "1-Project/Real MySQL 8.0/03 사용자 및 권한.md",
+    "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/4장 외부 연동이 문제일 때 살펴봐야 할 것들/연동 서비스 이중화.md",
+    "images/Pasted image 20250930195654.png",
     "2-Area/기술 서적/주니어 백엔드 개발자가 반드시 알아야할 실무 지식/2장 느려진 서비스, 어디부터 봐야 할까/Untitled.base",
     "2-Area/코딩테스트/Untitled.base",
     "2-Area/코딩테스트/solved/보류",
@@ -258,9 +274,6 @@
     "images/SCR-20250924-rnmh.png",
     "images/SCR-20250924-rnlf.png",
     "images/SCR-20250924-rnkf.png",
-    "images/SCR-20250924-rnjl.png",
-    "images/SCR-20250924-rnim.png",
-    "1-Project/코테책",
-    "Untitled.base"
+    "1-Project/코테책"
   ]
 }
